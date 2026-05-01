@@ -59,11 +59,12 @@ image: /img/2023/diomede-islands.jpg #optional
 ---
 ```
 
-If the project title contains a colon or other special character, it should be enclosed in quotes in order to form
-valid YAML.
+If the project title contains a colon or other special character, it should be enclosed in quotes in order to form valid YAML.
 
 The project thumbnail image should be located in the `/public/img/2023/` directory. Since the public folder is copied to
 the root of the output folder on site build, the image path should start with `/img/2023/` rather than `/public/img/2023/`.
+
+If you are working on a draft that you would still like committed to the repo, you can use `published: false` in the front matter. Without that the markdown file will be published, you do not explicitly need `published: true`.
 
 ## Markdown Features
 

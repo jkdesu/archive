@@ -23,6 +23,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("projectsByYear", function (collectionApi) {
     const projects = collectionApi
       .getFilteredByGlob(["projects/*/[^_]*.md"])
+      .filter(p => p.data.published !== false)
       // sort by year (descending), then sort order (ascending), then title (ascending)
       .sort(
         (a, b) =>
