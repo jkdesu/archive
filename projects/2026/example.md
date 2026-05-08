@@ -1,9 +1,9 @@
 ---
 layout: project
 title: Example Project
-author: Seth Thompson
+author: Catherine Griffiths
 advisor: Advisor Name
-year: 2023
+year: 2026
 image: /img/_example/diomede-islands.jpg
 links:
   - text: Explore
