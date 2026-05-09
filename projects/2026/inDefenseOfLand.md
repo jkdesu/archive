@@ -3,7 +3,7 @@ layout: project
 title: In Defense of the Land
 author: Steven Dela Cruz Duncan
 year: 2026
-image: /img/2026/in_defense_of_the_land/titleScreenVid.gif
+image: /img/2026/inDefenseOfLand/titleScreenVid.gif
 links:
   - text: View the Interactive Web Experience
     url: https://sfdduncan.github.io/digitalColonialismStory/
@@ -23,8 +23,8 @@ links:
 In March of 2022, a hacktivist collective calling itself Guacamaya, the Maya word for the macaw parrot, breached the networks of mining companies operating in Guatemala's Fenix nickel project, leaking over four terabytes of data exposing working conditions, environmental damage, gender-based violence, and the internal corporate messaging that had coordinated it all. They understood themselves as acting in defense of the Maya Q'eqchi', the Indigenous people who have existed in reciprocity with their lands prior to and during the ongoing mining projects, as well as all Indigenous peoples of Abya Yala, the Kuna term for the Americas meaning "land in full maturity."
 
 <div style="display:flex;gap:1rem;">
-  <img src="img/2026/inDefenseOfLand/guacamaya1.png" style="width:50%;object-fit:cover;">
-  <img src="img/2026/inDefenseOfLand/guacamaya2.png" style="width:50%;object-fit:cover;">
+  <img src="/img/2026/inDefenseOfLand/guacamaya1.png" style="width:50%;object-fit:cover;">
+  <img src="/img/2026/inDefenseOfLand/guacamaya2.png" style="width:50%;object-fit:cover;">
 </div>
 
 
@@ -35,7 +35,7 @@ What I kept returning to was a single passage from one of their statements:
 This statement reframes what might otherwise be read as a disruptive, cyberterroristic act as something far older: a continuation of Indigenous refusal and resistance. In aligning this form of digital insurgency with centuries of land defense, Guacamaya insists that although the medium is new, the struggle they are working within is not.
 
 ---
-<br><br>
+<br>
 
 # In Defense of the Land
 
@@ -43,7 +43,7 @@ This statement reframes what might otherwise be read as a disruptive, cyberterro
 
 The goal of this digital narrative experience is twofold. For those encountering these histories for the first time, the aim is to make legible that Indigenous peoples have continued to resist, in a myriad of ways, despite the ongoing attempts of settler colonialism to erase them. For those already engaged with anti-colonial or decolonization movements, the aim is to internalize the notion of kinstillation, of Indigenous internationalism, and to inspire a turn toward how other Indigenous peoples across the Americas have worked in tandem, all under the umbrella of defending the land, and inherently, defending themselves.
 
-![](img/2026/inDefenseOfLand/titleScreenVid.gif)
+![](/img/2026/inDefenseOfLand/titleScreenVid.gif)
 
 <br></br>
 
@@ -51,8 +51,8 @@ The goal of this digital narrative experience is twofold. For those encountering
 
 The experience moves through a sequence of distinct natural environments: arctic tundra, forest, grassland, mountain pass, ocean, rainforest, and finally the dark digital corridor of the hack itself. The viewer walks through each environment as written narration, audio of prevalent scholars engaging in Critical Native and Indigenous studies, and archival imagery surface alongside them.
 
-![](img/2026/inDefenseOfLand/environments_grid.png)
-<br></br>
+![](/img/2026/inDefenseOfLand/environments_grid.png)
+<br>
 
 ## The Subtitles as Essay Spine
 
@@ -62,7 +62,7 @@ The written narration that appears as the viewer moves through the environment f
   <source src="/img/2026/inDefenseOfLand/demoVId2.mp4" type="video/mp4">
 </video>
 
-<br></br>
+<br>
 
 ## Archival Images Moving Alongside the Viewer
 
@@ -73,7 +73,7 @@ Archival photographs, documentary images, and Indigenous artworks surface from t
 </video>
 
 ---
-<br><br>
+<br>
 
 # Computational Design Practice
 
@@ -83,7 +83,7 @@ This project is the culmination of my discovery and development of a computation
 
 I am interested in how interactive and immersive digital environments can serve as sites for the legible articulation of complex historical, political, and relational arguments, particularly in relation to Indigenous resistance and land defense. In wrestling with Guacamaya's claim, I have been grappling with two conceptual frameworks throughout this project, which I hold together because they are answering different but interlocking questions.
 
-![](img/2026/inDefenseOfLand/archiveImg.png)
+![](/img/2026/inDefenseOfLand/archiveImg.png)
 
 The first is Joseph M. Pierce's (Cherokee Nation) framework of speculative relations and kinstillation,[^2] which presents an opportunity to recognize a unified decolonial struggle across the Americas while making clear not to flatten the individual and complex histories of distinct Indigenous groups. Through this framing, distinct movements of decolonial resistance can be put in conversation with one another, in tandem rather than collapsed, as they are all ultimately working to defend the land and, inherently, themselves.
 
@@ -91,9 +91,9 @@ The second is Jodi Byrd's (Chickasaw Nation) argument regarding the ways in whic
 
 This project takes precedent from games such as Umurangi Generation by Māori developer Naphtali Faulkner, in which the act of bearing witness through the environment becomes the form of resistance the work itself enacts, and Never Alone (Kisima Ingitchuna), developed in collaboration with the Iñupiaq community of Alaska as an act of cultural continuity and education.
 
-![](img/2026/inDefenseOfLand/inspo.png)
+![](/img/2026/inDefenseOfLand/inspo.png)
 
-<br></br>
+<br>
 
 ## Function
 
@@ -110,19 +110,19 @@ The system is comprised of:
   <source src="/img/2026/inDefenseOfLand/demoVid1.mp4" type="video/mp4">
 </video>
 
-<br></br>
+<br>
 
 ## Form
 
 The aesthetic of the experience is deliberate. The environments are stylized rather than photorealistic, refusing the open-world game's logic of conquering empty, hyper-rendered territory. The archival images are set apart from the environment by their treatment, surfacing as discrete artifacts that travel alongside the viewer rather than being embedded into the world as decoration. The shifting landscapes, from arctic tundra to rainforest to the dark corridor of the hack, are an attempt to visualize something of the territorial vastness at stake: the sheer scale and diversity of the lands, waters, and ecologies that Indigenous peoples across the Americas have defended and continue to defend. No single environment can hold that scope. The movement between them is an acknowledgment of it.
 
-<br></br>
+<br>
 
 ## Interaction
 
 Where the open-world game traditionally invites the player to conquer empty territory, this work asks the viewer to move through territory that is already inhabited, already defended, already alive with relation, and to confront, through that inhabitation, the ongoing presence of peoples the medium has historically tried to render absent. The interaction is intentionally limited: the viewer walks, they look, they listen, they read. There are no win conditions. There is no accumulation. The viewer's only task is to be present with these histories, to allow themselves to be moved through them, and to recognize them for what they are: not history, not exception, but the continuous texture of life lived in good relation, exactly as Guacamaya named it.
 
-<br></br>
+<br>
 
 ## A Companion Two-Channel Video Installation: Resistance in Plaintext
 
@@ -133,7 +133,7 @@ Alongside the digital narrative experience, this work includes a two-channel vid
 </div>
 
 ---
-<br><br>
+<br>
 
 [^1]: Guacamaya. "RESISTENCIA." Distributed via Enlace Hacktivista, 2022.
 [^2]: Pierce, Joseph M. *Speculative Relations: Indigenous Worlding and Repair*. Durham: Duke University Press, 2025.
