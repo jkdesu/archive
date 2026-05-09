@@ -54,6 +54,8 @@ The analysis reveals that vulnerability is unevenly distributed. Environmental e
 
 ![Food Vulnerability Index and Mapping Process](/img/2026/tracing-food-tracing-fragility/sunni-tftf-data.gif)
 
+![Research References and Mapping Framework](/img/2026/tracing-food-tracing-fragility/sunni-tftf-reference.png)
+
 ---
 
 # Red Hook: A Site of Convergence
@@ -94,13 +96,14 @@ Navigation follows a constrained node-based structure. Users move sequentially t
 
 Interaction is deliberately limited. Users can navigate and observe, but cannot alter the systems they encounter. The project positions presence within infrastructure separately from control over it.
 
-![Unity Environment](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-1.gif)
+![Unity Environment Navigation](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-1.gif)
 
-![Unity Environment](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-5.png)
+![Unity Environment Nodes](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-5.png)
 
 <iframe
   src="https://play.unity.com/en/games/a9413fd9-1ce2-4bcd-bcc2-9cfb8812e387/tracing-food-tracing-fragility"
   frameborder="0"
+  allow="autoplay; fullscreen"
   allowfullscreen
   style="aspect-ratio: 16 / 9; width: 100%;">
 </iframe>
@@ -116,41 +119,34 @@ Thank you to Catherine Griffiths, Ziv Schneider, Christopher Woebken, Dan Miller
 And finally, thank you to my peers, friends, and family for their encouragement and support throughout this work.
 
 ---
-
-# Data Sources
-
-- NYC Open Data — Census Tracts, Borough Boundaries, Planimetric Database, Shoreline & Hydrography, Farmers Markets, Community Food Connection Sites, Neighborhood Supply Gap
-- NYC Department of City Planning — MapPLUTO, Neighborhood Tabulation Areas
-- NYC Department of Health and Mental Hygiene — Restaurant Inspection Results
-- NYC Department of Transportation — Truck Routes
-- NYC Department of Environmental Protection — Green Infrastructure, Stormwater Flood Maps
-- U.S. Census Bureau — American Community Survey (ACS)
-- CDC — Social Vulnerability Index (SVI)
-- FEMA — Hurricane Sandy Inundation Zone
-- NYC Panel on Climate Change — Future Floodplain Projections
-
----
+<br><br>
 
 [^1]: Ruha Benjamin, _Race After Technology: Abolitionist Tools for the New Jim Code_ (Cambridge: Polity Press, 2019).
 
-[^2]: Claire Bishop, _Artificial Hells: Participatory Art and the Politics of Spectatorship_ (London: Verso, 2012).
+[^2]: Kate Crawford, _Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence_ (New Haven: Yale University Press, 2021).
 
-[^3]: Kate Crawford, _Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence_ (New Haven: Yale University Press, 2021).
+[^3]: T. J. Demos, _Radical Futurisms: Ecologies of Collapse, Chronopolitics, and Justice-to-Come_ (Berlin: Sternberg Press, 2023).
 
-[^4]: Kimberlé Crenshaw, "Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine," _University of Chicago Legal Forum_ (1989).
+[^4]: Catherine D'Ignazio and Lauren Klein, _Data Feminism_ (Cambridge, MA: MIT Press, 2020).
 
-[^5]: T. J. Demos, _Radical Futurisms: Ecologies of Collapse, Chronopolitics, and Justice-to-Come_ (Berlin: Sternberg Press, 2023).
+[^5]: Matthew Fuller and Eyal Weizman, _Investigative Aesthetics: Conflicts and Commons in the Politics of Truth_ (London: Verso, 2021).
 
-[^6]: Catherine D'Ignazio and Lauren Klein, _Data Feminism_ (Cambridge, MA: MIT Press, 2020).
+[^6]: Stephen Graham and Simon Marvin, _Splintering Urbanism: Networked Infrastructures, Technological Mobilities and the Urban Condition_ (London: Routledge, 2001).
 
-[^7]: Mary Flanagan, _Critical Play: Radical Game Design_ (Cambridge, MA: MIT Press, 2009).
+[^7]: Yanni Alexander Loukissas, _All Data Are Local: Thinking Critically in a Data-Driven Society_ (Cambridge, MA: MIT Press, 2019).
 
-[^8]: Matthew Fuller and Eyal Weizman, _Investigative Aesthetics: Conflicts and Commons in the Politics of Truth_ (London: Verso, 2021).
+[^8]: NYC Open Data — Census Tracts, Borough Boundaries, Planimetric Database, Shoreline & Hydrography, Farmers Markets, Community Food Connection Sites, Neighborhood Supply Gap.
 
-[^9]: Stephen Graham and Simon Marvin, _Splintering Urbanism: Networked Infrastructures, Technological Mobilities and the Urban Condition_ (London: Routledge, 2001).
+[^9]: NYC Department of City Planning — MapPLUTO, Neighborhood Tabulation Areas.
 
-[^10]: Nora N. Khan, _The Artificial and the Real_ (Toronto and Berlin: Art Metropole and Sternberg Press, 2024).
+[^10]: NYC Department of Health and Mental Hygiene — Restaurant Inspection Results.
 
-[^11]: Yanni Alexander Loukissas, _All Data Are Local: Thinking Critically in a Data-Driven Society_ (Cambridge, MA: MIT Press, 2019).
+[^11]: NYC Department of Transportation — Truck Routes.
 
-[^12]: Renée Luksch and Andres Lepik, eds., _Reading Visual Investigations: Between Advocacy, Journalism, and Law_ (Berlin: Hatje Cantz, 2024).
+[^12]: NYC Department of Environmental Protection — Green Infrastructure, Stormwater Flood Maps.
+
+[^13]: U.S. Census Bureau — American Community Survey (ACS).
+
+[^14]: FEMA — Hurricane Sandy Inundation Zone.
+
+[^15]: New York City Panel on Climate Change — Future Floodplain Projections.
