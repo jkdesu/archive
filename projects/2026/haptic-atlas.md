@@ -68,9 +68,9 @@ Earlier iterations explored different lattice geometries, motor densities, and r
 
 The site is the project's main presentation, documentation, and evidence layer. Built as a responsive Next.js app, it hosts the session flow, walk-trace maps, charts, and an iteration archive — visually tuned to a retro pixel-inspired pink / purple / black palette so it reads as a designed system rather than a portfolio template.
 
-![Home screen of the Haptic Atlas interface — pixel-styled BEFORE LIGHT haptic-nav training entry.](/img/2026/haptic-atlas/interface-home.png)
+![Live presentation site — Context / hero slide on the deployed Haptic Atlas website.](/img/2026/haptic-atlas/site-hero.png)
 
-![Session setup screen: environment, distance, goal confirm, and per-side haptic test.](/img/2026/haptic-atlas/interface-setup.png)
+![Live presentation site — System Components slide showing the three layers of the project.](/img/2026/haptic-atlas/site-system.png)
 
 The web layer combines several browser APIs and libraries:
 
