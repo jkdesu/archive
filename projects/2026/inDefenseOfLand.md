@@ -46,7 +46,7 @@ This statement reframes what might otherwise be read as a disruptive, cyberterro
 The goal of this digital narrative experience is twofold. For those encountering these histories for the first time, the aim is to make legible that Indigenous peoples have continued to resist, in a myriad of ways, despite the ongoing attempts of settler colonialism to erase them. For those already engaged with anti-colonial or decolonization movements, the aim is to internalize the notion of kinstillation, of Indigenous internationalism, and to inspire a turn toward how other Indigenous peoples across the Americas have worked in tandem, all under the umbrella of defending the land, and inherently, defending themselves.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
-  <iframe src="https://youtu.be/pEFUWrmAmdw?autoplay=1&mute=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/pEFUWrmAmdw?autoplay=1&mute=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 <br>
