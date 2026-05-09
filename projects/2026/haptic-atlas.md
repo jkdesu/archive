@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Haptic Atlas: Learning Navigation by Feel"
-author: Xinyu Jiao
+author: "Zhengrui Hao and Xinyu Jiao"
 advisor: Daniel Leithinger
 year: 2026
 image: /img/2026/haptic-atlas/cover.jpg
@@ -98,3 +98,11 @@ Those records already support review. Beyond that, the same data could train AI 
 ## Code
 
 The full source for the website and the belt firmware lives at [github.com/xinyu-jiao/haptic-atlas](https://github.com/xinyu-jiao/haptic-atlas).
+
+---
+
+## Contributions
+
+**Zhengrui Hao** — initial project conception, implementation logic, and experiment design. Led all hardware work: hardware-side code, circuit assembly and soldering, mechanical and 3D-model design, FDM printing of the lattice plates, and the software–hardware bridge. Drove the interaction design of the haptic belt and controller.
+
+**Xinyu Jiao** — built the website as the project's documentation, presentation, and evidence layer; designed the app UI; supported Zhengrui in physical prototyping; documented the testing sessions; and helped wire the website to the hardware.
