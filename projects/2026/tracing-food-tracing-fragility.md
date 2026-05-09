@@ -16,8 +16,6 @@ links:
 
 # Tracing Food, Tracing Fragility
 
-## An interactive spatial investigation of food access, infrastructure, and environmental risk in New York City.
-
 ![Tracing Food, Tracing Fragility](/img/2026/tracing-food-tracing-fragility/sunni-tftf-hero.png)
 
 This project begins from a condition that is both ordinary and persistent: the everyday availability of food.
@@ -137,11 +135,7 @@ To trace the food is to trace the fragility. And to trace the fragility is to un
 
 # Acknowledgements
 
-Special thanks to my advisor, Seth Thompson, for his guidance throughout this work.
-
-Thank you to Catherine Griffiths, Ziv Schneider, Christopher Woebken, Dan Miller, and Celeste Layne for their feedback, ideas, and thoughtful perspectives.
-
-I am especially grateful to Mario A. Giampieri and Dare Anne S. Brawley, whose course GIS for Design Practices introduced a new dimension to my design practice and sparked my interest in mapping and spatial data.
+Special thanks to my advisor, Seth Thompson, for his guidance and support throughout this work. I am also grateful to Catherine Griffiths, Ziv Schneider, Christopher Woebken, Dan Miller, and Celeste Layne for their thoughtful feedback, ideas, and perspectives that shaped this project. Finally, thank you to my peers, friends, and family for their continued support throughout this journey.
 
 ---
 
@@ -166,6 +160,7 @@ I am especially grateful to Mario A. Giampieri and Dare Anne S. Brawley, whose c
 [^10]: Yanni Alexander Loukissas, *All Data Are Local: Thinking Critically in a Data-Driven Society* (MIT Press, 2019).
 
 [^11]: Renée Luksch and Andres Lepik, eds., *Reading Visual Investigations: Between Advocacy, Journalism, and Law* (Hatje Cantz, 2024).
+
 [^12]: NYC Open Data, *2020 Census Tracts*.
 
 [^13]: NYC Department of City Planning, *Neighborhood Tabulation Areas* (2020).
