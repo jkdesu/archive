@@ -14,101 +14,89 @@ links:
     url: https://sunnihuu.github.io/tracing-food-tracing-fragility/
 ---
 
-# Tracing Food, Tracing Fragility
-
 ![Tracing Food, Tracing Fragility](/img/2026/tracing-food-tracing-fragility/sunni-tftf-hero.png)
 
-This project begins from a condition that is both ordinary and persistent: the everyday availability of food.
+# Provocation
 
-Food is encountered daily through routines of purchasing, cooking, storing, and consuming. It appears stable, predictable, and continuously accessible. Yet this apparent stability depends on systems that are rarely visible in everyday experience: distribution networks, storage infrastructures, transportation systems, and regulatory structures operating in the background.
+Food access often feels stable, immediate, and local. Grocery stores remain stocked, delivery systems continue operating, and food moves through the city with little interruption.
 
-To follow food is to follow dependency itself.
+Yet this apparent stability depends on infrastructures that are rarely visible in everyday life: logistics networks, transportation systems, storage facilities, labor systems, and environmental conditions operating continuously in the background.
 
----
-
-# The Condition of the Ordinary
-
-The project uses food as a lens for tracing hidden systems, surfacing what is embedded within everyday life but rarely examined directly. Early research focused on the environmental dimensions of food systems, using the idea of a foodprint to understand food as a set of measurable impacts, including carbon emissions, land use, energy consumption, transportation, and waste.
-
-What emerged was not a linear sequence, but a feedback loop: food systems contribute to climate change, while climate change introduces instability into production, distribution, pricing, and access. Cause and effect fold back on one another, producing conditions that cannot be resolved through any single intervention.
+What happens when these systems are disrupted? How is vulnerability distributed across the city? And how can computational tools make these hidden dependencies visible?
 
 ---
 
-# Spatializing Vulnerability
+# Project
+
+![Unity Environment Detail](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-2.png)
+
+Tracing Food, Tracing Fragility is a spatial and interactive investigation into the infrastructures that sustain everyday food access in New York City.
+
+The project combines GIS mapping, spatial analysis, photogrammetry, and an interactive Unity environment to examine how food systems operate across scales — from global logistics networks to neighborhood streets and household conditions.
+
+Rather than treating food access as a question of simple proximity, the project reframes access as something contingent on interconnected systems whose stability cannot always be guaranteed.
+
+---
+
+# Food Vulnerability Index
+
+At the center of the project is the Food Vulnerability Index (FVI), a spatial framework developed to examine how food stability varies across New York City.
+
+The index combines three dimensions:
+
+- Economic Pressure
+- Consumption Intensity
+- Household Storage Capacity
+
+These variables were mapped across census tracts to identify where everyday access depends most strongly on uninterrupted infrastructure and logistical continuity.
+
+The analysis reveals that vulnerability is unevenly distributed. Environmental exposure, infrastructural dependency, and socioeconomic conditions overlap spatially, concentrating fragility within particular neighborhoods.
 
 ![Food Vulnerability Index and Mapping Process](/img/2026/tracing-food-tracing-fragility/sunni-tftf-data.gif)
-
-This line of inquiry extends into the city. I developed a Food Vulnerability Index to examine how food stability varies across neighborhoods in New York City.
-
-The index combines economic pressure, consumption intensity, household storage capacity, flood exposure, logistics infrastructure, and transportation access. The goal is to surface patterns of dependency that might otherwise remain invisible.
-
-Reading *Data Feminism* informed this process directly. D’Ignazio and Klein’s argument that data reflects decisions, priorities, and omissions reshaped how I approached the index. The map is a constructed lens, one that illuminates certain relationships while inevitably leaving others outside the frame.[^1]
-
-Understood this way, the index becomes a means of revealing where stability appears most contingent. Food access depends not on proximity alone, but on the uninterrupted functioning of supply chains, infrastructures, and environmental conditions that most residents never encounter directly.
-
----
-
-# Mapping Patterns of Exposure
-
-![Research References and Mapping Framework](/img/2026/tracing-food-tracing-fragility/sunni-tftf-reference.png)
-
-With this framework in place, the project examines how flood risk, land use, logistics infrastructure, transportation access, and food distribution networks overlap across the city.
-
-No single layer tells the full story. What becomes significant is where they coincide: where environmental exposure overlaps with infrastructural dependency, and where the absence of redundancy meets the presence of risk.
-
-These patterns become clearer when food systems are understood as infrastructure. Graham and Marvin’s *Splintering Urbanism* helped frame infrastructure as something that actively organizes uneven conditions of access and risk.[^2] Kate Crawford’s *Atlas of AI* also shaped the project’s attention to the material and labor systems behind infrastructures that often appear seamless or automatic.[^3]
-
-Food systems do not merely move goods. They distribute risk.
 
 ---
 
 # Red Hook: A Site of Convergence
 
+Red Hook emerged as a site where these overlapping systems become simultaneously visible.
+
+Low elevation, coastal flood exposure, limited transit access, and a dense concentration of warehouse and logistics infrastructure converge within a relatively contained geography.
+
+Loading docks, distribution routes, bodegas, industrial waterfronts, and residential streets exist only blocks apart. This proximity makes visible how global supply chains intersect directly with everyday urban life.
+
+Rather than understanding environmental risk as a singular event, the project approaches vulnerability as an ongoing condition embedded within the organization of the neighborhood itself.
+
 ![Unity Environment Sequence](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-3.gif)
-
-Red Hook, Brooklyn emerged as a site where these overlapping conditions become visible together.
-
-Low elevation, sustained coastal flood exposure, limited transit connections, and a dense concentration of logistics and warehouse infrastructure converge within a relatively contained geography. These are not independent characteristics. They are part of a longer history of land use decisions that positioned industrial functions at the waterfront while concentrating both infrastructure and risk.
-
-At the same time, Red Hook supports residential life and local food networks whose everyday functioning depends on the systems visible throughout the neighborhood. The proximity between loading docks and bodega shelves, between global supply chains and kitchen tables, makes Red Hook a generative site for tracing how food access operates in space.
-
-T.J. Demos’s *Radical Futurisms* shifted how I understand Red Hook’s relationship to environmental risk. Climate disruption is not treated here as a sudden exception, but as a slow, accumulating condition that everyday life is already organized around.[^4]
 
 ---
 
 # Investigative Aesthetics
 
-![Investigative Aesthetics Montage](/img/2026/tracing-food-tracing-fragility/sunni-tftf-images.gif)
-
 ![Photogrammetry Scan](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-scan.gif)
 
-Deciding how to represent these systems required its own line of inquiry.
+The project draws from the concept of investigative aesthetics, treating representation not as a finished image but as a method of inquiry.
 
-Fuller and Weizman’s concept of investigative aesthetics offered a central framework: representation can function as a form of inquiry. Systems are not presented as complete or resolved. They are reconstructed through fragments, traces, and spatial encounters.[^5]
+Mapping, spatial reconstruction, and interactive environments operate as tools for assembling fragments, traces, and relationships that are often difficult to perceive in everyday life.
 
-This shaped the project’s use of photogrammetry. The scans capture fragments of Red Hook’s built environment: loading docks, storefronts, delivery routes, and waterfront infrastructure. These fragments remain deliberately partial, retaining texture, distortion, and incompleteness.
+The goal is not to produce a complete model of the food system, but to create conditions where infrastructural dependency becomes perceptible.
 
-The incompleteness is not treated as a technical limitation. It is a design choice.
+![Site Documentation](/img/2026/tracing-food-tracing-fragility/sunni-tftf-images.gif)
 
 ---
 
-# The Navigable Landscape
+# Interactive Environment
+
+The spatial analysis informed the development of an interactive Unity-based environment.
+
+Using photogrammetry captured throughout Red Hook, the project reconstructs fragments of logistical infrastructure, storefronts, loading areas, and waterfront conditions. These fragments remain intentionally incomplete, preserving the partial and uneven nature of how infrastructure is encountered in everyday experience.
+
+Navigation follows a constrained node-based structure. Users move sequentially through fixed viewpoints, encountering contextual observations, data fragments, and spatial traces throughout the environment.
+
+Interaction is deliberately limited. Users can navigate and observe, but cannot alter the systems they encounter. The project positions presence within infrastructure separately from control over it.
 
 ![Unity Environment](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-1.gif)
 
-The project develops an interactive spatial environment in Unity, structured around the logic of infrastructure itself.
-
-Navigation follows a node-based structure, moving users between fixed viewpoints with limited freedom upon arrival. Movement is sequential and constrained, mirroring the predefined pathways of infrastructure, where circulation is conditioned by decisions made elsewhere.
-
-Throughout the environment, contextual panels open at each node, surfacing fragments of information: short narratives, observations, and data points. These function less as explanations than as traces, requiring users to assemble meaning across movement.
-
-![Unity Environment Detail](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-2.png)
-
 ![Unity Environment](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-5.png)
-
----
-
-# Interactive Experience
 
 <iframe
   src="https://play.unity.com/en/games/a9413fd9-1ce2-4bcd-bcc2-9cfb8812e387/tracing-food-tracing-fragility"
@@ -119,78 +107,69 @@ Throughout the environment, contextual panels open at each node, surfacing fragm
 
 ---
 
-# Tracing Dependency
+# Data Sources
 
-Tracing food becomes a method of tracing dependency.
+**Base Geography**
+- NYC Open Data — 2020 Census Tracts
+- NYC Department of City Planning — Neighborhood Tabulation Areas (NTAs)
+- NYC Open Data — Borough Boundaries
 
-What appears stable is revealed as contingent, reliant on systems that are continuous, largely invisible, and unevenly distributed. A gap in the supply chain, a flooded road, a disrupted logistics network: these are not aberrations, but demonstrations of how tightly the ordinary depends on what it cannot see.
+**Built Environment & Land Use**
+- NYC Department of City Planning — MapPLUTO
+- NYC Open Data — NYC Planimetric Database
+- NYC Open Data — Shoreline and Hydrography Data
 
-The project does not attempt to fully represent the food system. As Nora N. Khan argues, computational systems cannot fully capture subjective and situated experience.[^7] Instead, this project works with that limitation, treating incompleteness as an honest account of what representation can do.
+**Food Infrastructure**
+- NYC Department of Health and Mental Hygiene — Restaurant Inspection Results
+- NYC Open Data — Farmers Markets
+- NYC Open Data — Community Food Connection Sites
 
-Food infrastructure is public infrastructure. The conditions that make it fragile are structural rather than incidental, shaped by planning, investment, logistics, policy, and environmental risk.
+**Infrastructure & Transportation**
+- NYC Department of Transportation — NYC Truck Routes
+- NYC Department of Environmental Protection — Green Infrastructure Data
 
-To trace the food is to trace the fragility. And to trace the fragility is to understand not just a neighborhood, but a city, and the decisions, visible and invisible, that continue to shape who it is built for.
+**Socioeconomic & Vulnerability Data**
+- U.S. Census Bureau — American Community Survey (ACS)
+- CDC — Social Vulnerability Index (SVI)
+- NYC Open Data — Neighborhood Supply Gap Data
+
+**Climate & Environmental Risk**
+- FEMA — Hurricane Sandy Inundation Zone
+- New York City Panel on Climate Change (NPCC) — Future Floodplain Projections
+- NYC Department of Environmental Protection — Stormwater Flood Maps
 
 ---
 
 # Acknowledgements
 
-Special thanks to my advisor, Seth Thompson, for his guidance and support throughout this work. I am also grateful to Catherine Griffiths, Ziv Schneider, Christopher Woebken, Dan Miller, and Celeste Layne for their thoughtful feedback, ideas, and perspectives that shaped this project. Finally, thank you to my peers, friends, and family for their continued support throughout this journey.
+Special thanks to my advisor, Seth Thompson, for his guidance and support throughout this project.
+
+I am deeply grateful to Catherine Griffiths, Ziv Schneider, Christopher Woebken, Dan Miller, and Celeste Layne for their thoughtful feedback and perspectives.
+
+Finally, thank you to Adam Vosburgh and Laura Kurgan for creating and sustaining the Computational Design Practices program, and to my peers, friends, and family for their continuous support throughout this work.
 
 ---
 
-[^1]: Catherine D’Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020).
+[^1]: Ruha Benjamin, _Race After Technology: Abolitionist Tools for the New Jim Code_ (Cambridge: Polity Press, 2019).
 
-[^2]: Stephen Graham and Simon Marvin, *Splintering Urbanism: Networked Infrastructures, Technological Mobilities and the Urban Condition* (Routledge, 2001).
+[^2]: Claire Bishop, _Artificial Hells: Participatory Art and the Politics of Spectatorship_ (London: Verso, 2012).
 
-[^3]: Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence* (Yale University Press, 2021).
+[^3]: Kate Crawford, _Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence_ (New Haven: Yale University Press, 2021).
 
-[^4]: T.J. Demos, *Radical Futurisms: Ecologies of Collapse, Chronopolitics, and Justice-to-Come* (Sternberg Press, 2023).
+[^4]: Kimberlé Crenshaw, "Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine," _University of Chicago Legal Forum_ (1989).
 
-[^5]: Matthew Fuller and Eyal Weizman, *Investigative Aesthetics: Conflicts and Commons in the Politics of Truth* (Verso, 2021).
+[^5]: T. J. Demos, _Radical Futurisms: Ecologies of Collapse, Chronopolitics, and Justice-to-Come_ (Berlin: Sternberg Press, 2023).
 
-[^6]: Mary Flanagan, *Critical Play: Radical Game Design* (MIT Press, 2009); Claire Bishop, *Artificial Hells: Participatory Art and the Politics of Spectatorship* (Verso, 2012).
+[^6]: Catherine D'Ignazio and Lauren Klein, _Data Feminism_ (Cambridge, MA: MIT Press, 2020).
 
-[^7]: Nora N. Khan, *The Artificial and the Real* (Art Metropole and Sternberg Press, 2024).
+[^7]: Mary Flanagan, _Critical Play: Radical Game Design_ (Cambridge, MA: MIT Press, 2009).
 
-[^8]: Ruha Benjamin, *Race After Technology: Abolitionist Tools for the New Jim Code* (Polity Press, 2019).
+[^8]: Matthew Fuller and Eyal Weizman, _Investigative Aesthetics: Conflicts and Commons in the Politics of Truth_ (London: Verso, 2021).
 
-[^9]: Kimberlé Crenshaw, “Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine,” *University of Chicago Legal Forum* (1989).
+[^9]: Stephen Graham and Simon Marvin, _Splintering Urbanism: Networked Infrastructures, Technological Mobilities and the Urban Condition_ (London: Routledge, 2001).
 
-[^10]: Yanni Alexander Loukissas, *All Data Are Local: Thinking Critically in a Data-Driven Society* (MIT Press, 2019).
+[^10]: Nora N. Khan, _The Artificial and the Real_ (Toronto and Berlin: Art Metropole and Sternberg Press, 2024).
 
-[^11]: Renée Luksch and Andres Lepik, eds., *Reading Visual Investigations: Between Advocacy, Journalism, and Law* (Hatje Cantz, 2024).
+[^11]: Yanni Alexander Loukissas, _All Data Are Local: Thinking Critically in a Data-Driven Society_ (Cambridge, MA: MIT Press, 2019).
 
-[^12]: NYC Open Data, *2020 Census Tracts*.
-
-[^13]: NYC Department of City Planning, *Neighborhood Tabulation Areas* (2020).
-
-[^14]: NYC Open Data, *Borough Boundaries*.
-
-[^15]: NYC Department of City Planning, *MapPLUTO* (v25v4).
-
-[^16]: NYC Open Data, *NYC Planimetric Database* (Shoreline, Hydrography, Elevation Points).
-
-[^17]: NYC Department of Transportation, *New York City Truck Routes* (2026).
-
-[^18]: NYC Department of Environmental Protection, *DEP Green Infrastructure* (Point Layer).
-
-[^19]: NYC Department of Health and Mental Hygiene, *Restaurant Inspection Results*.
-
-[^20]: NYC Open Data, *Farmers Markets*.
-
-[^21]: NYC Open Data, *Community Food Access Sites* (CFC).
-
-[^22]: U.S. Census Bureau, *Poverty Status* (ACS).
-
-[^23]: Centers for Disease Control and Prevention, *Social Vulnerability Index* (SoVI).
-
-[^24]: NYC Department of Health and Mental Hygiene, *Heat Vulnerability Index*.
-
-[^25]: NYC Open Data, *Neighborhood Supply Gap* (2024).
-
-[^26]: NYC Department of Environmental Protection, *Stormwater Flood Map*.
-
-[^27]: FEMA, *Hurricane Sandy Inundation Zone*.
-
-[^28]: New York City Panel on Climate Change, *Future Floodplain* (2050s).
+[^12]: Renée Luksch and Andres Lepik, eds., _Reading Visual Investigations: Between Advocacy, Journalism, and Law_ (Berlin: Hatje Cantz, 2024).
