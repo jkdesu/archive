@@ -5,9 +5,11 @@ author: Sunni Jiayu Hu
 advisor: Seth Thompson
 year: 2026
 image: /img/2026/tracing-food-tracing-fragility/sunni-tftf-hero.png
+
 links:
   - text: Explore
     url: https://play.unity.com/en/games/a9413fd9-1ce2-4bcd-bcc2-9cfb8812e387/tracing-food-tracing-fragility
+
   - text: Project Website
     url: https://sunnihuu.github.io/tracing-food-tracing-fragility/
 ---
@@ -20,38 +22,35 @@ links:
 
 This project begins from a condition that is both ordinary and persistent: the everyday availability of food.
 
-Food is encountered daily through routines of purchasing, cooking, storing, and consuming. It appears stable, predictable, and continuously accessible. Yet this apparent stability depends on systems that are rarely visible in everyday experience: distribution networks, storage infrastructures, transportation systems, and regulatory structures that operate in the background.
+Food is encountered daily through routines of purchasing, cooking, storing, and consuming. It appears stable, predictable, and continuously accessible. Yet this apparent stability depends on systems that are rarely visible in everyday experience: distribution networks, storage infrastructures, transportation systems, and regulatory structures operating in the background.
 
 To follow food is to follow dependency itself.
 
 ---
-<br><br>
 
 # The Condition of the Ordinary
 
 ![Intro Sequence](/img/2026/tracing-food-tracing-fragility/sunni-tftf-intro.gif)
 
-The project uses food as a lens for tracing hidden systems, surfacing what is embedded in everyday life but rarely examined. Early research focused on the environmental dimensions of these systems, using the idea of a foodprint to understand food as a set of measurable impacts, including carbon emissions, land use, energy consumption, transportation, and waste.
+The project uses food as a lens for tracing hidden systems, surfacing what is embedded within everyday life but rarely examined directly. Early research focused on the environmental dimensions of food systems, using the idea of a foodprint to understand food as a set of measurable impacts, including carbon emissions, land use, energy consumption, transportation, and waste.
 
 What emerged was not a linear sequence, but a feedback loop: food systems contribute to climate change, while climate change introduces instability into production, distribution, pricing, and access. Cause and effect fold back on one another, producing conditions that cannot be resolved through any single intervention.
 
 ---
-<br><br>
 
 # Spatializing Vulnerability
 
-![Food Vulnerability Index and Mapping Process](public/img/2026/tracing-food-tracing-fragility/sunni-tftf-data.gif)
+![Food Vulnerability Index and Mapping Process](/img/2026/tracing-food-tracing-fragility/sunni-tftf-data.gif)
 
 This line of inquiry extends into the city. I developed a Food Vulnerability Index to examine how food stability varies across neighborhoods in New York City.
 
-The index draws together economic pressure, consumption intensity, household storage capacity, flood exposure, logistics infrastructure, and transportation access. The goal is to surface patterns of dependency that might otherwise remain invisible.
+The index combines economic pressure, consumption intensity, household storage capacity, flood exposure, logistics infrastructure, and transportation access. The goal is to surface patterns of dependency that might otherwise remain invisible.
 
 Reading *Data Feminism* informed this process directly. D’Ignazio and Klein’s argument that data reflects decisions, priorities, and omissions reshaped how I approached the index. The map is a constructed lens, one that illuminates certain relationships while inevitably leaving others outside the frame.[^1]
 
 Understood this way, the index becomes a means of revealing where stability appears most contingent. Food access depends not on proximity alone, but on the uninterrupted functioning of supply chains, infrastructures, and environmental conditions that most residents never encounter directly.
 
 ---
-<br><br>
 
 # Mapping Patterns of Exposure
 
@@ -66,7 +65,6 @@ These patterns become clearer when food systems are understood as infrastructure
 Food systems do not merely move goods. They distribute risk.
 
 ---
-<br><br>
 
 # Red Hook: A Site of Convergence
 
@@ -81,7 +79,6 @@ At the same time, Red Hook supports residential life and local food networks who
 T.J. Demos’s *Radical Futurisms* shifted how I understand Red Hook’s relationship to environmental risk. Climate disruption is not treated here as a sudden exception, but as a slow, accumulating condition that everyday life is already organized around.[^4]
 
 ---
-<br><br>
 
 # Investigative Aesthetics
 
@@ -96,7 +93,6 @@ This shaped the project’s use of photogrammetry. The scans capture fragments o
 The incompleteness is not treated as a technical limitation. It is a design choice.
 
 ---
-<br><br>
 
 # The Navigable Landscape
 
@@ -109,10 +105,10 @@ Navigation follows a node-based structure, moving users between fixed viewpoints
 Throughout the environment, contextual panels open at each node, surfacing fragments of information: short narratives, observations, and data points. These function less as explanations than as traces, requiring users to assemble meaning across movement.
 
 ![Unity Environment Detail](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-2.png)
+
 ![Unity Environment](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-5.png)
 
 ---
-<br><br>
 
 # Interactive Experience
 
@@ -124,7 +120,6 @@ Throughout the environment, contextual panels open at each node, surfacing fragm
 </iframe>
 
 ---
-<br><br>
 
 # Tracing Dependency
 
@@ -139,7 +134,6 @@ Food infrastructure is public infrastructure. The conditions that make it fragil
 To trace the food is to trace the fragility. And to trace the fragility is to understand not just a neighborhood, but a city, and the decisions, visible and invisible, that continue to shape who it is built for.
 
 ---
-<br><br>
 
 # Acknowledgements
 
@@ -147,60 +141,48 @@ Special thanks to my advisor, Seth Thompson, for his guidance throughout this wo
 
 Thank you to Catherine Griffiths, Ziv Schneider, Christopher Woebken, Dan Miller, and Celeste Layne for their feedback, ideas, and thoughtful perspectives.
 
+I am especially grateful to Mario A. Giampieri and Dare Anne S. Brawley, whose course GIS for Design Practices introduced a new dimension to my design practice and sparked my interest in mapping and spatial data.
+
 ---
-<br><br>
 
 # Data Sources
 
 ### Base Geography
 
-[^12]: NYC Open Data, *2020 Census Tracts*.
-
-[^13]: NYC Department of City Planning, *Neighborhood Tabulation Areas* (2020).
-
-[^14]: NYC Open Data, *Borough Boundaries*.
+- NYC Open Data, *2020 Census Tracts*
+- NYC Department of City Planning, *Neighborhood Tabulation Areas* (2020)
+- NYC Open Data, *Borough Boundaries*
 
 ### Built Environment / Land Use
 
-[^15]: NYC Department of City Planning, *MapPLUTO* (v25v4).
-
-[^16]: NYC Open Data, *NYC Planimetric Database* (Shoreline, Hydrography, Elevation Points).
+- NYC Department of City Planning, *MapPLUTO* (v25v4)
+- NYC Open Data, *NYC Planimetric Database* (Shoreline, Hydrography, Elevation Points)
 
 ### Infrastructure & Logistics
 
-[^17]: NYC Department of Transportation, *New York City Truck Routes* (2026).
-
-[^18]: NYC Department of Environmental Protection, *DEP Green Infrastructure* (Point Layer).
+- NYC Department of Transportation, *New York City Truck Routes* (2026)
+- NYC Department of Environmental Protection, *DEP Green Infrastructure* (Point Layer)
 
 ### Food System
 
-[^19]: NYC Department of Health and Mental Hygiene, *Restaurant Inspection Results*.
-
-[^20]: NYC Open Data, *Farmers Markets*.
-
-[^21]: NYC Open Data, *Community Food Access Sites* (CFC).
+- NYC Department of Health and Mental Hygiene, *Restaurant Inspection Results*
+- NYC Open Data, *Farmers Markets*
+- NYC Open Data, *Community Food Access Sites* (CFC)
 
 ### Socioeconomic & Vulnerability
 
-[^22]: U.S. Census Bureau, *Poverty Status* (ACS).
-
-[^23]: Centers for Disease Control and Prevention, *Social Vulnerability Index* (SoVI).
-
-[^24]: NYC Department of Health and Mental Hygiene, *Heat Vulnerability Index*.
-
-[^25]: NYC Open Data, *Neighborhood Supply Gap* (2024).
+- U.S. Census Bureau, *Poverty Status* (ACS)
+- Centers for Disease Control and Prevention, *Social Vulnerability Index* (SoVI)
+- NYC Department of Health and Mental Hygiene, *Heat Vulnerability Index*
+- NYC Open Data, *Neighborhood Supply Gap* (2024)
 
 ### Climate & Environmental Risk
 
-[^26]: NYC Department of Environmental Protection, *Stormwater Flood Map*.
-
-[^27]: FEMA, *Hurricane Sandy Inundation Zone*.
-
-[^28]: New York City Panel on Climate Change, *Future Floodplain* (2050s).
-- New York City Panel on Climate Change, Future Floodplain, 2050s
+- NYC Department of Environmental Protection, *Stormwater Flood Map*
+- FEMA, *Hurricane Sandy Inundation Zone*
+- New York City Panel on Climate Change, *Future Floodplain* (2050s)
 
 ---
-<br><br>
 
 [^1]: Catherine D’Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020).
 
