@@ -6,9 +6,9 @@ year: 2026
 image: /img/2026/tracing-food-tracing-fragility/sunni-tftf- hero.png
 links:
   - text: Explore
-    url: [https://darkmatters.xyz/](https://play.unity.com/en/games/a9413fd9-1ce2-4bcd-bcc2-9cfb8812e387/tracing-food-tracing-fragility)
+    url: https://play.unity.com/en/games/a9413fd9-1ce2-4bcd-bcc2-9cfb8812e387/tracing-food-tracing-fragility
   - text: Learn More
-    url: [https://dept-of-transformation.org/](https://sunnihuu.github.io/tracing-food-tracing-fragility/)
+    url: https://sunnihuu.github.io/tracing-food-tracing-fragility/
 ---
 
 ![Glynneath, UK, 51°45'23" N 3°38'58" W](/img/_example/glynneath-united-kingdom.jpg)
