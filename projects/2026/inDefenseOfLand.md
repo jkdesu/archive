@@ -70,12 +70,18 @@ The written narration that appears as the viewer moves through the environment f
 
 ## Archival Images Moving Alongside the Viewer
 
-Archival photographs, documentary images, and Indigenous artworks surface from the landscape and move alongside the viewer rather than being displayed behind glass. This design choice is rooted in a concept common across many Indigenous traditions: that the past is not behind us but travels with us, that ancestors and ancestral knowledge inform and accompany the present rather than receding into history. Some of these images originate from a colonial lens, produced by and for institutions that sought to render Indigenous peoples as salvageable objects frozen in the moment of their capture. Drawing on Pierce, the images are approached as opportunities to recover within them moments of tenderness, care, kinship, and refusal that the colonial archive was never designed to hold but could not fully erase.
+Archival photographs, documentary images, and Indigenous artworks surface from the landscape and move alongside the viewer rather than being displayed behind glass. This design choice is rooted in a concept common across many Indigenous traditions: that the past is not behind us but travels with us, that ancestors and ancestral knowledge inform and accompany the present rather than receding into history. 
 
 <video controls width="100%">
   <source src="/img/2026/inDefenseOfLand/demoVidPopUp.mp4" type="video/mp4">
 </video>
 
+Some of these images originate from a colonial lens, produced by and for institutions that sought to render Indigenous peoples as salvageable objects frozen in the moment of their capture. Drawing on Pierce, the images are approached as opportunities to recover within them moments of tenderness, care, kinship, and refusal that the colonial archive was never designed to hold but could not fully erase.
+
+<div style="display:flex;gap:1rem;">
+  <img src="/img/2026/inDefenseOfLand/popupExample1.png" style="width:50%;object-fit:cover;">
+  <img src="/img/2026/inDefenseOfLand/popupExample2.png" style="width:50%;object-fit:cover;">
+</div>
 ---
 <br>
 
