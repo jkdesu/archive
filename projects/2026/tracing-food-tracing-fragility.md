@@ -141,51 +141,63 @@ To trace the food is to trace the fragility. And to trace the fragility is to un
 ---
 <br><br>
 
-# Data Sources
-
-## Base Geography
-
-- NYC Open Data, 2020 Census Tracts
-- NYC Department of City Planning, Neighborhood Tabulation Areas (2020)
-- NYC Open Data, Borough Boundaries
-
-## Built Environment / Land Use
-
-- NYC Department of City Planning, MapPLUTO (v25v4)
-- NYC Open Data, NYC Planimetric Database: Shoreline, Hydrography, Elevation Points
-
-## Infrastructure & Logistics
-
-- NYC Department of Transportation, New York City Truck Routes (2026)
-- NYC Department of Environmental Protection, DEP Green Infrastructure Point Layer
-
-## Food System
-
-- NYC Department of Health and Mental Hygiene, Restaurant Inspection Results
-- NYC Open Data, Farmers Markets
-- NYC Open Data, Community Food Access Sites
-
-## Socioeconomic & Vulnerability
-
-- U.S. Census Bureau, Poverty Status, American Community Survey
-- Centers for Disease Control and Prevention, Social Vulnerability Index
-- NYC Department of Health and Mental Hygiene, Heat Vulnerability Index
-- NYC Open Data, Neighborhood Supply Gap (2024)
-
-## Climate & Environmental Risk
-
-- NYC Department of Environmental Protection, Stormwater Flood Map
-- FEMA, Hurricane Sandy Inundation Zone
-- New York City Panel on Climate Change, Future Floodplain, 2050s
-
----
-<br><br>
-
 # Acknowledgements
 
 Special thanks to my advisor, Seth Thompson, for his guidance throughout this work.
 
 Thank you to Catherine Griffiths, Ziv Schneider, Christopher Woebken, Dan Miller, and Celeste Layne for their feedback, ideas, and thoughtful perspectives.
+
+---
+<br><br>
+
+# Data Sources
+
+### Base Geography
+
+[^12]: NYC Open Data, *2020 Census Tracts*.
+
+[^13]: NYC Department of City Planning, *Neighborhood Tabulation Areas* (2020).
+
+[^14]: NYC Open Data, *Borough Boundaries*.
+
+### Built Environment / Land Use
+
+[^15]: NYC Department of City Planning, *MapPLUTO* (v25v4).
+
+[^16]: NYC Open Data, *NYC Planimetric Database* (Shoreline, Hydrography, Elevation Points).
+
+### Infrastructure & Logistics
+
+[^17]: NYC Department of Transportation, *New York City Truck Routes* (2026).
+
+[^18]: NYC Department of Environmental Protection, *DEP Green Infrastructure* (Point Layer).
+
+### Food System
+
+[^19]: NYC Department of Health and Mental Hygiene, *Restaurant Inspection Results*.
+
+[^20]: NYC Open Data, *Farmers Markets*.
+
+[^21]: NYC Open Data, *Community Food Access Sites* (CFC).
+
+### Socioeconomic & Vulnerability
+
+[^22]: U.S. Census Bureau, *Poverty Status* (ACS).
+
+[^23]: Centers for Disease Control and Prevention, *Social Vulnerability Index* (SoVI).
+
+[^24]: NYC Department of Health and Mental Hygiene, *Heat Vulnerability Index*.
+
+[^25]: NYC Open Data, *Neighborhood Supply Gap* (2024).
+
+### Climate & Environmental Risk
+
+[^26]: NYC Department of Environmental Protection, *Stormwater Flood Map*.
+
+[^27]: FEMA, *Hurricane Sandy Inundation Zone*.
+
+[^28]: New York City Panel on Climate Change, *Future Floodplain* (2050s).
+- New York City Panel on Climate Change, Future Floodplain, 2050s
 
 ---
 <br><br>
