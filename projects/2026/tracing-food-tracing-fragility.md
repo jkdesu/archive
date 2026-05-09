@@ -1,10 +1,10 @@
 ---
 layout: project
-title: Example Project
-author: Catherine Griffiths
-advisor: Advisor Name
+title: Tracing Food,Tracing Fragility
+author: Sunnis Jiayu Hu
+advisor: Seth Thompson
 year: 2026
-image: /img/_example/diomede-islands.jpg
+image: public/img/2026/tracing-food-tracing-fragility/sunni-tftf- hero.png
 links:
   - text: Explore
     url: https://darkmatters.xyz/
