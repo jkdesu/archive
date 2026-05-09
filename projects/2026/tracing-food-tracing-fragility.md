@@ -28,8 +28,6 @@ To follow food is to follow dependency itself.
 
 # The Condition of the Ordinary
 
-![Intro Sequence](/img/2026/tracing-food-tracing-fragility/sunni-tftf-intro.gif)
-
 The project uses food as a lens for tracing hidden systems, surfacing what is embedded within everyday life but rarely examined directly. Early research focused on the environmental dimensions of food systems, using the idea of a foodprint to understand food as a set of measurable impacts, including carbon emissions, land use, energy consumption, transportation, and waste.
 
 What emerged was not a linear sequence, but a feedback loop: food systems contribute to climate change, while climate change introduces instability into production, distribution, pricing, and access. Cause and effect fold back on one another, producing conditions that cannot be resolved through any single intervention.
@@ -79,6 +77,8 @@ T.J. Demos’s *Radical Futurisms* shifted how I understand Red Hook’s relatio
 ---
 
 # Investigative Aesthetics
+
+![Investigative Aesthetics Montage](/img/2026/tracing-food-tracing-fragility/sunni-tftf-images.gif)
 
 ![Photogrammetry Scan](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-scan.gif)
 
