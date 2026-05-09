@@ -107,46 +107,27 @@ Interaction is deliberately limited. Users can navigate and observe, but cannot 
 
 ---
 
-# Data Sources
+# Acknowledgements
 
-**Base Geography**
-- NYC Open Data — 2020 Census Tracts
-- NYC Department of City Planning — Neighborhood Tabulation Areas (NTAs)
-- NYC Open Data — Borough Boundaries
+Special thanks to my advisor, Seth Thompson, for his guidance, support, and inspiration throughout this project.
 
-**Built Environment & Land Use**
-- NYC Department of City Planning — MapPLUTO
-- NYC Open Data — NYC Planimetric Database
-- NYC Open Data — Shoreline and Hydrography Data
+Thank you to Catherine Griffiths, Ziv Schneider, Christopher Woebken, Dan Miller, Celeste Layne, Adam Vosburgh, and Laura Kurgan for their feedback, conversations, and support throughout this journey.
 
-**Food Infrastructure**
-- NYC Department of Health and Mental Hygiene — Restaurant Inspection Results
-- NYC Open Data — Farmers Markets
-- NYC Open Data — Community Food Connection Sites
-
-**Infrastructure & Transportation**
-- NYC Department of Transportation — NYC Truck Routes
-- NYC Department of Environmental Protection — Green Infrastructure Data
-
-**Socioeconomic & Vulnerability Data**
-- U.S. Census Bureau — American Community Survey (ACS)
-- CDC — Social Vulnerability Index (SVI)
-- NYC Open Data — Neighborhood Supply Gap Data
-
-**Climate & Environmental Risk**
-- FEMA — Hurricane Sandy Inundation Zone
-- New York City Panel on Climate Change (NPCC) — Future Floodplain Projections
-- NYC Department of Environmental Protection — Stormwater Flood Maps
+And finally, thank you to my peers, friends, and family for their encouragement and support throughout this work.
 
 ---
 
-# Acknowledgements
+# Data Sources
 
-Special thanks to my advisor, Seth Thompson, for his guidance and support throughout this project.
-
-I am deeply grateful to Catherine Griffiths, Ziv Schneider, Christopher Woebken, Dan Miller, and Celeste Layne for their thoughtful feedback and perspectives.
-
-Finally, thank you to Adam Vosburgh and Laura Kurgan for creating and sustaining the Computational Design Practices program, and to my peers, friends, and family for their continuous support throughout this work.
+- NYC Open Data — Census Tracts, Borough Boundaries, Planimetric Database, Shoreline & Hydrography, Farmers Markets, Community Food Connection Sites, Neighborhood Supply Gap
+- NYC Department of City Planning — MapPLUTO, Neighborhood Tabulation Areas
+- NYC Department of Health and Mental Hygiene — Restaurant Inspection Results
+- NYC Department of Transportation — Truck Routes
+- NYC Department of Environmental Protection — Green Infrastructure, Stormwater Flood Maps
+- U.S. Census Bureau — American Community Survey (ACS)
+- CDC — Social Vulnerability Index (SVI)
+- FEMA — Hurricane Sandy Inundation Zone
+- NYC Panel on Climate Change — Future Floodplain Projections
 
 ---
 
