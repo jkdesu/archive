@@ -145,45 +145,6 @@ I am especially grateful to Mario A. Giampieri and Dare Anne S. Brawley, whose c
 
 ---
 
-# Data Sources
-
-### Base Geography
-
-- NYC Open Data, *2020 Census Tracts*
-- NYC Department of City Planning, *Neighborhood Tabulation Areas* (2020)
-- NYC Open Data, *Borough Boundaries*
-
-### Built Environment / Land Use
-
-- NYC Department of City Planning, *MapPLUTO* (v25v4)
-- NYC Open Data, *NYC Planimetric Database* (Shoreline, Hydrography, Elevation Points)
-
-### Infrastructure & Logistics
-
-- NYC Department of Transportation, *New York City Truck Routes* (2026)
-- NYC Department of Environmental Protection, *DEP Green Infrastructure* (Point Layer)
-
-### Food System
-
-- NYC Department of Health and Mental Hygiene, *Restaurant Inspection Results*
-- NYC Open Data, *Farmers Markets*
-- NYC Open Data, *Community Food Access Sites* (CFC)
-
-### Socioeconomic & Vulnerability
-
-- U.S. Census Bureau, *Poverty Status* (ACS)
-- Centers for Disease Control and Prevention, *Social Vulnerability Index* (SoVI)
-- NYC Department of Health and Mental Hygiene, *Heat Vulnerability Index*
-- NYC Open Data, *Neighborhood Supply Gap* (2024)
-
-### Climate & Environmental Risk
-
-- NYC Department of Environmental Protection, *Stormwater Flood Map*
-- FEMA, *Hurricane Sandy Inundation Zone*
-- New York City Panel on Climate Change, *Future Floodplain* (2050s)
-
----
-
 [^1]: Catherine D’Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020).
 
 [^2]: Stephen Graham and Simon Marvin, *Splintering Urbanism: Networked Infrastructures, Technological Mobilities and the Urban Condition* (Routledge, 2001).
@@ -205,3 +166,36 @@ I am especially grateful to Mario A. Giampieri and Dare Anne S. Brawley, whose c
 [^10]: Yanni Alexander Loukissas, *All Data Are Local: Thinking Critically in a Data-Driven Society* (MIT Press, 2019).
 
 [^11]: Renée Luksch and Andres Lepik, eds., *Reading Visual Investigations: Between Advocacy, Journalism, and Law* (Hatje Cantz, 2024).
+[^12]: NYC Open Data, *2020 Census Tracts*.
+
+[^13]: NYC Department of City Planning, *Neighborhood Tabulation Areas* (2020).
+
+[^14]: NYC Open Data, *Borough Boundaries*.
+
+[^15]: NYC Department of City Planning, *MapPLUTO* (v25v4).
+
+[^16]: NYC Open Data, *NYC Planimetric Database* (Shoreline, Hydrography, Elevation Points).
+
+[^17]: NYC Department of Transportation, *New York City Truck Routes* (2026).
+
+[^18]: NYC Department of Environmental Protection, *DEP Green Infrastructure* (Point Layer).
+
+[^19]: NYC Department of Health and Mental Hygiene, *Restaurant Inspection Results*.
+
+[^20]: NYC Open Data, *Farmers Markets*.
+
+[^21]: NYC Open Data, *Community Food Access Sites* (CFC).
+
+[^22]: U.S. Census Bureau, *Poverty Status* (ACS).
+
+[^23]: Centers for Disease Control and Prevention, *Social Vulnerability Index* (SoVI).
+
+[^24]: NYC Department of Health and Mental Hygiene, *Heat Vulnerability Index*.
+
+[^25]: NYC Open Data, *Neighborhood Supply Gap* (2024).
+
+[^26]: NYC Department of Environmental Protection, *Stormwater Flood Map*.
+
+[^27]: FEMA, *Hurricane Sandy Inundation Zone*.
+
+[^28]: New York City Panel on Climate Change, *Future Floodplain* (2050s).
