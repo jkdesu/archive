@@ -1,13 +1,14 @@
 ---
 layout: project
-title: Tracing Food,Tracing Fragility
-author: Sunnis Jiayu Hu
+title: "Tracing Food, Tracing Fragility"
+author: Sunni Jiayu Hu
+advisor: Seth Thompson
 year: 2026
-image: /img/2026/tracing-food-tracing-fragility/sunni-tftf- hero.png
+image: public/img/2026/tracing-food-tracing-fragility/sunni-tftf- hero.png
 links:
   - text: Explore
     url: https://play.unity.com/en/games/a9413fd9-1ce2-4bcd-bcc2-9cfb8812e387/tracing-food-tracing-fragility
-  - text: Learn More
+  - text: Project Website
     url: https://sunnihuu.github.io/tracing-food-tracing-fragility/
 ---
 
