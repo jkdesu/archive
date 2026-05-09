@@ -40,7 +40,7 @@ What emerged was not a linear sequence, but a feedback loop: food systems contri
 
 # Spatializing Vulnerability
 
-![Food Vulnerability Index and Mapping Process](/img/2026/tracing-food-tracing-fragility/sunni-tftf-data.gif)
+![Food Vulnerability Index and Mapping Process](public/img/2026/tracing-food-tracing-fragility/sunni-tftf-data.gif)
 
 This line of inquiry extends into the city. I developed a Food Vulnerability Index to examine how food stability varies across neighborhoods in New York City.
 
@@ -203,3 +203,11 @@ Thank you to Catherine Griffiths, Ziv Schneider, Christopher Woebken, Dan Miller
 [^6]: Mary Flanagan, *Critical Play: Radical Game Design* (MIT Press, 2009); Claire Bishop, *Artificial Hells: Participatory Art and the Politics of Spectatorship* (Verso, 2012).
 
 [^7]: Nora N. Khan, *The Artificial and the Real* (Art Metropole and Sternberg Press, 2024).
+
+[^8]: Ruha Benjamin, *Race After Technology: Abolitionist Tools for the New Jim Code* (Polity Press, 2019).
+
+[^9]: Kimberlé Crenshaw, “Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine,” *University of Chicago Legal Forum* (1989).
+
+[^10]: Yanni Alexander Loukissas, *All Data Are Local: Thinking Critically in a Data-Driven Society* (MIT Press, 2019).
+
+[^11]: Renée Luksch and Andres Lepik, eds., *Reading Visual Investigations: Between Advocacy, Journalism, and Law* (Hatje Cantz, 2024).
