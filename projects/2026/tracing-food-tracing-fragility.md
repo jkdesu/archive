@@ -7,7 +7,7 @@ year: 2026
 image: /img/2026/tracing-food-tracing-fragility/sunni-tftf-hero.png
 
 links:
-  - text: Explore
+  - text: Explore the Interactive Experience
     url: https://play.unity.com/en/games/a9413fd9-1ce2-4bcd-bcc2-9cfb8812e387/tracing-food-tracing-fragility
 
   - text: Project Website
@@ -28,13 +28,13 @@ What happens when these systems are disrupted? How is vulnerability distributed 
 
 # Project
 
-![Unity Environment Detail](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-2.png)
+![Detail view of the Unity-based interactive environment showing Red Hook's logistical infrastructure](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-2.png)
 
 Tracing Food, Tracing Fragility is a spatial and interactive investigation into the infrastructures that sustain everyday food access in New York City.
 
 The project combines GIS mapping, spatial analysis, photogrammetry, and an interactive Unity environment to examine how food systems operate across scales — from global logistics networks to neighborhood streets and household conditions.
 
-Rather than treating food access as a question of simple proximity, the project reframes access as something contingent on interconnected systems whose stability cannot always be guaranteed.
+The project approaches food access not simply as proximity, but as a condition shaped by interconnected systems whose stability cannot always be guaranteed.
 
 ---
 
@@ -68,13 +68,13 @@ Loading docks, distribution routes, bodegas, industrial waterfronts, and residen
 
 Rather than understanding environmental risk as a singular event, the project approaches vulnerability as an ongoing condition embedded within the organization of the neighborhood itself.
 
-![Unity Environment Sequence](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-3.gif)
+![Animated sequence through the Unity environment depicting Red Hook's waterfront and warehouse district](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-3.gif)
 
 ---
 
-# Investigative Aesthetics
+# Fragments and Reconstruction
 
-![Photogrammetry Scan](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-scan.gif)
+![Animated photogrammetry scan capturing physical fragments of Red Hook's infrastructure](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-scan.gif)
 
 The project draws from the concept of investigative aesthetics, treating representation not as a finished image but as a method of inquiry.
 
@@ -82,7 +82,7 @@ Mapping, spatial reconstruction, and interactive environments operate as tools f
 
 The goal is not to produce a complete model of the food system, but to create conditions where infrastructural dependency becomes perceptible.
 
-![Site Documentation](/img/2026/tracing-food-tracing-fragility/sunni-tftf-images.gif)
+![Animated collage of site documentation photographs from Red Hook](/img/2026/tracing-food-tracing-fragility/sunni-tftf-images.gif)
 
 ---
 
@@ -96,9 +96,9 @@ Navigation follows a constrained node-based structure. Users move sequentially t
 
 Interaction is deliberately limited. Users can navigate and observe, but cannot alter the systems they encounter. The project positions presence within infrastructure separately from control over it.
 
-![Unity Environment Navigation](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-1.gif)
+![Animated walkthrough of the node-based navigation system in the Unity interactive environment](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-1.gif)
 
-![Unity Environment Nodes](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-5.png)
+![Diagram showing the fixed viewpoint node structure used for navigation in the Unity environment](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-5.png)
 
 <iframe
   src="https://play.unity.com/en/games/a9413fd9-1ce2-4bcd-bcc2-9cfb8812e387/tracing-food-tracing-fragility"
@@ -107,6 +107,28 @@ Interaction is deliberately limited. Users can navigate and observe, but cannot 
   allowfullscreen
   style="aspect-ratio: 16 / 9; width: 100%;">
 </iframe>
+
+---
+
+# References
+
+D'Ignazio, Catherine, and Lauren Klein. *Data Feminism*. MIT Press, 2020.
+
+Crawford, Kate. *Atlas of AI*. Yale University Press, 2021.
+
+Demos, T. J. *Radical Futurisms*. Sternberg Press, 2023.
+
+Fuller, Matthew, and Eyal Weizman. *Investigative Aesthetics*. Verso, 2021.
+
+Graham, Stephen, and Simon Marvin. *Splintering Urbanism*. Routledge, 2001.
+
+Loukissas, Yanni Alexander. *All Data Are Local*. MIT Press, 2019.
+
+NYC Open Data.
+
+MapPLUTO.
+
+FEMA Flood Maps.
 
 ---
 
@@ -119,34 +141,3 @@ Thank you to Catherine Griffiths, Ziv Schneider, Christopher Woebken, Dan Miller
 And finally, thank you to my peers, friends, and family for their encouragement and support throughout this work.
 
 ---
-<br><br>
-
-[^1]: Ruha Benjamin, _Race After Technology: Abolitionist Tools for the New Jim Code_ (Cambridge: Polity Press, 2019).
-
-[^2]: Kate Crawford, _Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence_ (New Haven: Yale University Press, 2021).
-
-[^3]: T. J. Demos, _Radical Futurisms: Ecologies of Collapse, Chronopolitics, and Justice-to-Come_ (Berlin: Sternberg Press, 2023).
-
-[^4]: Catherine D'Ignazio and Lauren Klein, _Data Feminism_ (Cambridge, MA: MIT Press, 2020).
-
-[^5]: Matthew Fuller and Eyal Weizman, _Investigative Aesthetics: Conflicts and Commons in the Politics of Truth_ (London: Verso, 2021).
-
-[^6]: Stephen Graham and Simon Marvin, _Splintering Urbanism: Networked Infrastructures, Technological Mobilities and the Urban Condition_ (London: Routledge, 2001).
-
-[^7]: Yanni Alexander Loukissas, _All Data Are Local: Thinking Critically in a Data-Driven Society_ (Cambridge, MA: MIT Press, 2019).
-
-[^8]: NYC Open Data — Census Tracts, Borough Boundaries, Planimetric Database, Shoreline & Hydrography, Farmers Markets, Community Food Connection Sites, Neighborhood Supply Gap.
-
-[^9]: NYC Department of City Planning — MapPLUTO, Neighborhood Tabulation Areas.
-
-[^10]: NYC Department of Health and Mental Hygiene — Restaurant Inspection Results.
-
-[^11]: NYC Department of Transportation — Truck Routes.
-
-[^12]: NYC Department of Environmental Protection — Green Infrastructure, Stormwater Flood Maps.
-
-[^13]: U.S. Census Bureau — American Community Survey (ACS).
-
-[^14]: FEMA — Hurricane Sandy Inundation Zone.
-
-[^15]: New York City Panel on Climate Change — Future Floodplain Projections.
