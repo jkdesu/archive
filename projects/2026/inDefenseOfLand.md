@@ -36,7 +36,6 @@ And while the technical capabilities of Guacamaya, managing to utilize a series 
 
 This statement reframes what might otherwise be read as a disruptive, cyberterroristic act as something far older: a continuation of Indigenous refusal and resistance. In aligning this form of digital insurgency with centuries of land defense, Guacamaya insists that although the medium is new, the struggle they are working within is not.
 
-
 <br>
 
 # In Defense of the Land
@@ -56,6 +55,7 @@ The goal of this digital narrative experience is twofold. For those encountering
 The experience moves through a sequence of distinct natural environments: arctic tundra, forest, grassland, mountain pass, ocean, rainforest, and finally the dark digital corridor of the hack itself. The viewer walks through each environment as written narration, audio of prevalent scholars engaging in Critical Native and Indigenous studies, and archival imagery surface alongside them.
 
 ![Various natural environments within the digital narrative experience](/img/2026/inDefenseOfLand/environments_grid.png)
+
 <br>
 
 ## The Subtitles as Essay Spine
@@ -158,7 +158,6 @@ Together, the two channels ask the viewer to hold what is usually kept separate:
 Taken together, In Defense of the Land and Resistance in Plaintext are an attempt to do what Guacamaya named: to recognize that the tools change, but the work does not. The interactive experience asks the viewer to move through that work, to be present with it across five centuries and a continent's worth of land and peoples. The installation asks the viewer to see what that work is up against, and what it looks like in its fullness, not only at the moment of rupture but in the ceremony, the gathering, the song, the simple fact of continuing to exist on the land.
 
 <br>
-
 
 [^1]: Guacamaya. "RESISTENCIA." Distributed via Enlace Hacktivista, 2022.
 [^2]: Pierce, Joseph M. *Speculative Relations: Indigenous Worlding and Repair*. Durham: Duke University Press, 2025.
