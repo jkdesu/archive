@@ -1,10 +1,16 @@
 ---
 layout: project
-title: "Structure Assistant: Embedding Structural Intelligence into Early Design"
+title: "STRUCTURE ASSISTANT: EMBEDDING STRUCTURAL INTELLIGENCE INTO EARLY DESIGN"
+title_line_1: "STRUCTURE ASSISTANT:"
+title_line_2: "EMBEDDING STRUCTURAL INTELLIGENCE INTO EARLY DESIGN"
+title_one_line: true
 author: Sara Lin
 advisor: Joe Brennan
 year: 2026
-image: /img/2026/small-architecture-office-structure-assistant/cover.jpg
+image: /img/2026/small-architecture-office-structure-assistant/cover.png
+header_image: true
+justify_content: true
+links_as_buttons: true
 links:
   - text: Small Architecture Office Assistant Website
     url: https://saraaaalin.github.io/Small-Architecture-Office-Assistant/
@@ -24,13 +30,27 @@ In many small architecture offices, design and expertise do not happen at the sa
 
 Structure Assistant explores how structural knowledge can become more present during early-stage design, especially for small firms that may not have in-house structural consultants.
 
+<figure class="figure-caption-single-line">
+  <img
+    src="/img/2026/small-architecture-office-structure-assistant/timeline.png"
+    alt="Traditional versus integrated workflow: consultation embedded in design." />
+  <figcaption>Traditional versus integrated workflow: consultation embedded in design.</figcaption>
+</figure>
+
 ## System Overview
 
-The tool connects a custom Rhino panel interface with a Grasshopper backend. Users select ceiling and floor slab geometry directly in Rhino, choose a material system, and receive preliminary feedback on beam layout, span direction, beam depth, product suggestions, and estimated cost range.
+The project is built with Rhino 8, Grasshopper, and C#. A custom Eto WebView panel provides the user interface, while Grasshopper handles geometric analysis and rule-based structural computation. The communication between the Rhino panel and Grasshopper allows selected geometry and material input to be passed into the computational definition, with results returned to the interface.
 
-![Structure Assistant interface inside Rhino.](/img/2026/small-architecture-office-structure-assistant/ui.png)
+The Grasshopper definition includes span detection, beam layout generation, preliminary depth sizing, product matching, budget estimation, baking, export, and visualization logic.
 
-## Workflow
+<figure class="figure--column-width">
+  <img
+    src="/img/2026/small-architecture-office-structure-assistant/system-overview.png"
+    alt="Development process: from expertise to computation to real-time feedback." />
+  <figcaption>Development process: from expertise to computation to real-time feedback.</figcaption>
+</figure>
+
+## Grasshopper Backend Design Logic
 
 The system follows a pipeline from geometric input to structural feedback:
 
@@ -42,28 +62,50 @@ The system follows a pipeline from geometric input to structural feedback:
 6. Visualize the result inside Rhino.
 7. Optionally bake outputs and export results.
 
-![Grasshopper system pipeline.](/img/2026/small-architecture-office-structure-assistant/pipeline.mp4)
-
-## Demo
-
 <video
-  src="/img/2026/small-architecture-office-structure-assistant/demo.mp4"
+  src="/img/2026/small-architecture-office-structure-assistant/pipeline.mp4"
   controls
   style="aspect-ratio: 16 / 9; width: 100%;">
 </video>
 
-## Technical Implementation
+## Plugin Rhino Interface
 
-The project is built with Rhino 8, Grasshopper, and C#. A custom Eto WebView panel provides the user interface, while Grasshopper handles geometric analysis and rule-based structural computation. The communication between the Rhino panel and Grasshopper allows selected geometry and material input to be passed into the computational definition, with results returned to the interface.
+The tool connects a custom Rhino panel interface with a Grasshopper backend. Users select ceiling and floor slab geometry directly in Rhino, choose a material system, and receive preliminary feedback on beam layout, span direction, beam depth, product suggestions, and estimated cost range.
 
-The Grasshopper definition includes span detection, beam layout generation, preliminary depth sizing, product matching, budget estimation, baking, export, and visualization logic.
+<video
+  src="/img/2026/small-architecture-office-structure-assistant/demo.mp4"
+  controls
+  autoplay
+  loop
+  muted
+  playsinline
+  style="aspect-ratio: 16 / 9; width: 100%;">
+</video>
 
-## Audience and Scope
+## Product Layer
 
-This project is designed for small architecture practices, homeowners, co-op boards, landlords, and early-stage design teams working on small to mid-scale residential and commercial projects. The tool focuses on preliminary design feedback rather than final engineering calculation.
+Along with the tool itself, I also developed a product layer: a website.
 
-## Reflection
+The website explains, distributes, and documents the system, making it accessible to target users. It also provides installation guidance and direct download access, so the tool can be easily adopted by people with no computational background.
 
-Structure Assistant proposes a workflow where architects do not need to wait until later design phases to receive basic structural feedback. By embedding structural intelligence into the design environment, the project helps make expertise more accessible while design decisions are still flexible.
+<video
+  src="/img/2026/small-architecture-office-structure-assistant/website-walkthrough.mp4"
+  controls
+  playsinline
+  style="aspect-ratio: 16 / 9; width: 100%;">
+</video>
 
-The future direction of the project is to expand beyond structure and include other forms of embedded expertise, such as energy modeling, zoning analysis, code compliance, and environmental performance.
+## Scope of Future
+
+Looking forward, this project is expected to expand beyond structure. The goal is to build a system where multiple forms of expertise are embedded into design workflows, including energy modeling, code compliance, zoning analysis, and environmental performance.
+
+Instead of architects waiting for different consultants at different stages, they can interact with a system that provides layered intelligence in real time.
+
+The future is not about replacing experts, but about making expertise continuously present during design.
+
+<figure class="figure--column-width">
+  <img
+    src="/img/2026/small-architecture-office-structure-assistant/scope-of-future.png"
+    alt="Multi-Consultant Assistant System: embedded design intelligence modules for structure, MEP, zoning, landscape, envelope, and sustainability." />
+  <figcaption>Multi-Consultant Assistant System: embedded design intelligence across multiple domains.</figcaption>
+</figure>
