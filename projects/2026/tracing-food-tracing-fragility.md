@@ -118,11 +118,11 @@ The spatial analysis informed the development of an interactive Unity-based envi
 
 Using photogrammetry captured throughout Red Hook, the project reconstructs fragments of logistical infrastructure, storefronts, loading areas, and waterfront conditions. These fragments remain intentionally incomplete, preserving the partial and uneven nature of how infrastructure is encountered in everyday experience.
 
+![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-1.gif)
+
 Navigation follows a constrained node-based structure. Users move sequentially through fixed viewpoints, encountering contextual observations, data fragments, and spatial traces throughout the environment.
 
 Interaction is deliberately limited. Users can navigate and observe, but cannot alter the systems they encounter. The project positions presence within infrastructure separately from control over it.
-
-![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-1.gif)
 
 
 &nbsp;
