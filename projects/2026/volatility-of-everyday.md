@@ -4,7 +4,7 @@ title: "Volatility of Everyday"
 author: Ji-in Kang
 advisor: William Martins
 year: 2026
-image: /img/2026/volatility-of-everyday/cover.png
+image: /img/2026/volatility-of-everyday/capstone1.png
 links:
   - text: GitHub
     url: https://github.com/jkdesu
