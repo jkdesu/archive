@@ -36,8 +36,10 @@ links:
   }
 </style>
 
-![Tracing Food, Tracing Fragility](/img/2026/tracing-food-tracing-fragility/sunni-tftf-hero.png)
+![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-hero.png)
 
+
+![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-data-1.gif)
 
 Food access often feels stable, immediate, and local. Grocery stores remain stocked, delivery systems continue operating, and food moves through the city with little interruption.
 
@@ -49,7 +51,7 @@ What happens when these systems are disrupted? How is vulnerability distributed 
 &nbsp;
 
 
-![Detail view of the Unity-based interactive environment showing Red Hook's logistical infrastructure](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-2.png)
+![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-2.png)
 
 Tracing Food, Tracing Fragility is a spatial and interactive investigation into the infrastructures that sustain everyday food access in New York City.
 
@@ -74,7 +76,7 @@ These variables were mapped across census tracts to identify where everyday acce
 
 The analysis reveals that vulnerability is unevenly distributed. Environmental exposure, infrastructural dependency, and socioeconomic conditions overlap spatially, concentrating fragility within particular neighborhoods.
 
-![Food Vulnerability Index and Mapping Process](/img/2026/tracing-food-tracing-fragility/sunni-tftf-data.gif)
+![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-map-1.gif)
 
 ![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-reference.png)
 
@@ -91,14 +93,14 @@ Loading docks, distribution routes, bodegas, industrial waterfronts, and residen
 
 Rather than understanding environmental risk as a singular event, the project approaches vulnerability as an ongoing condition embedded within the organization of the neighborhood itself.
 
-![Animated sequence through the Unity environment depicting Red Hook's waterfront and warehouse district](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-3.gif)
+![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-map-2.gif)
 
 
 &nbsp;
 
 # Fragments and Reconstruction
 
-![Animated photogrammetry scan capturing physical fragments of Red Hook's infrastructure](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-scan.gif)
+![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-3.gif)
 
 The project draws from the concept of investigative aesthetics, treating representation not as a finished image but as a method of inquiry.
 
@@ -106,7 +108,7 @@ Mapping, spatial reconstruction, and interactive environments operate as tools f
 
 The goal is not to produce a complete model of the food system, but to create conditions where infrastructural dependency becomes perceptible.
 
-![Animated collage of site documentation photographs from Red Hook](/img/2026/tracing-food-tracing-fragility/sunni-tftf-images.gif)
+![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-images.gif)
 
 
 &nbsp;
@@ -121,9 +123,9 @@ Navigation follows a constrained node-based structure. Users move sequentially t
 
 Interaction is deliberately limited. Users can navigate and observe, but cannot alter the systems they encounter. The project positions presence within infrastructure separately from control over it.
 
-![Animated walkthrough of the node-based navigation system in the Unity interactive environment](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-1.gif)
+![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-1.gif)
 
-![Diagram showing the fixed viewpoint node structure used for navigation in the Unity environment](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-5.png)
+![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-5.png)
 
 <iframe
   src="https://play.unity.com/en/games/a9413fd9-1ce2-4bcd-bcc2-9cfb8812e387/tracing-food-tracing-fragility"
@@ -135,14 +137,12 @@ Interaction is deliberately limited. Users can navigate and observe, but cannot 
 
 &nbsp;
 
-![Library and reference materials](/img/2026/tracing-food-tracing-fragility/sunni-tftf-library.png)
+![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-library.png)
 
-![Data sources and frameworks](/img/2026/tracing-food-tracing-fragility/sunni-tftf-data.png)
+![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-data.png)
 
 
 &nbsp;
-
-# Acknowledgements
 
 Special thanks to my advisor, Seth Thompson, for his guidance, support, and inspiration throughout this project.
 
