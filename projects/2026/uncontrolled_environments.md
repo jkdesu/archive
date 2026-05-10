@@ -1,7 +1,8 @@
 ---
 layout: project
 title: "Uncontrolled Environments"
-author: Aline Theodorakis, Griffiths Schneider
+author: Aline Theodorakis
+advisor: Anthony Vanky
 year: 2026
 image: /img/2026/uncontrolled-environments/IMG_4213.jpeg
 ---

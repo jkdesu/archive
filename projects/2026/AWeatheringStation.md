@@ -1,5 +1,5 @@
 ---
-title: A Weathering Station: Autographic Comprehension of a Fog Layer
+title: "A Weathering Station: Autographic Comprehension of a Fog Layer"
 author: Claire Galla
 advisor: David Benjamin
 year: 2026
