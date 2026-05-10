@@ -8,6 +8,8 @@ links:
     url: https://claire-gall.github.io/AWeatheringStation-WebDocumentation/
 ---
 
+
+
 PROJECT SCOPE: 
 
 A Weathering Station: Autographic Comprehension of a Fog Layer is an ongoing humanities and spatial research project that looks at systems of atmospheric relations as formed through granular local microclimates, which fog clouds signify in certain places of the world. This project views the fog layer as grounding people in a hyper-local ephemeral experience while lending their cognition to a realm of universal humidity, as air and air moisture reflect climatic fluctuation between the local, regional and planetary scale. This project creates an index of fog-informed logics around its legibility via various media forms- from digital translations to physical traces of trans-coded data, to critical writing. With this, the goal is to make the process of documenting illusory atmospheric data visible via movement and geometric notation. 
@@ -72,6 +74,14 @@ MATERIAL AGGREGATION AND TRACE-MAKING OF CHARCOAL HYDROPATTERNS
 COMPUTATIONAL DESIGN PRACTICE DEVELOPMENT
 
 This project showcases my process of experimentation around the visualization of atmospheric datapoints that centers continuity over precision and relationality over resolution, as provided via methods of autographic visualization where the process of data collection is the subject of focus rather than the data itself. I set my attention towards the method of which fog data could be computed on materials and through geometric form to test out a new form of atmospheric legibility that is grounded in ground-based forms of sensing, data processing and data integration. 
+
+This data collection and documentation will help inform the performance testing of:- 
+Situated structures on-site at Slide Ranch and the larger Golden Gate Recreation Area- 
+Atmospheric metrics used for the in-house moisture boxes for remote autographic visualization- 
+Testing in parallel environments on the East Coast
+- 
+Atmospheric sensing experiments for adaptive reuse potential of obsolete
+structures
 
 LITERATURE
 
