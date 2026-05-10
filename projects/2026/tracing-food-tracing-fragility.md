@@ -126,13 +126,6 @@ Interaction is deliberately limited. Users can navigate and observe, but cannot 
 
 ![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-5.png)
 
-<iframe
-  src="https://play.unity.com/en/games/a9413fd9-1ce2-4bcd-bcc2-9cfb8812e387/tracing-food-tracing-fragility"
-  frameborder="0"
-  allow="autoplay; fullscreen"
-  allowfullscreen
-  style="aspect-ratio: 16 / 9; width: 100%;">
-</iframe>
 
 &nbsp;
 
