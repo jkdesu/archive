@@ -47,6 +47,13 @@ Autographic Visualization
 
 On-site//Off-site
 
+      <div class="img-wrap">
+        <div class="img-box">
+          <img src="Untitled_Artwork.jpg" alt="Frame 1">
+          <div class="img-placeholder">Image 1</div>
+        </div>
+      </div>
+
 THE SITE AND THE STRUCTURAL PIECE + STRUCTURAL EXPERIMENTS
 
 The development of this data model, method of visualization and physical structure will be integrated and validated on-site as this project is formalized within the headlands of Northern California as part of the research permit granted to me by the Golden Gate National Recreation Area to conduct field work on behalf of my fog-centered spatial research. The micro-climatic fluctuations of this area as it relates to regional patterns is the long term scope of this study. I am curious how the structure of the weather station itself provides new forms of resolution around the moisture patterning of the area and how this can translate to a greater cultural and geopolitical awareness of atmospheric conditions as hyper-localized while also planetary phenomena by traceing the local relationship to the regional to the planetary. 
