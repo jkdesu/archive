@@ -14,10 +14,15 @@ links:
     url: https://sunnihuu.github.io/tracing-food-tracing-fragility/
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Esteban&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Esteban&family=IBM+Plex+Mono&display=swap" rel="stylesheet">
 <style>
   .project-body {
     font-family: 'Esteban', serif;
+  }
+  .project-body figcaption {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.75rem;
+    color: #888;
   }
   .project-body h1,
   .project-body h2,
@@ -39,7 +44,8 @@ Yet this apparent stability depends on infrastructures that are rarely visible i
 
 What happens when these systems are disrupted? How is vulnerability distributed across the city? And how can computational tools make these hidden dependencies visible?
 
----
+
+&nbsp;
 
 # Project
 
@@ -51,7 +57,8 @@ The project combines GIS mapping, spatial analysis, photogrammetry, and an inter
 
 The project approaches food access not simply as proximity, but as a condition shaped by interconnected systems whose stability cannot always be guaranteed.
 
----
+
+&nbsp;
 
 # Food Vulnerability Index
 
@@ -71,7 +78,8 @@ The analysis reveals that vulnerability is unevenly distributed. Environmental e
 
 ![Research References and Mapping Framework](/img/2026/tracing-food-tracing-fragility/sunni-tftf-reference.png)
 
----
+
+&nbsp;
 
 # Red Hook: A Site of Convergence
 
@@ -85,7 +93,8 @@ Rather than understanding environmental risk as a singular event, the project ap
 
 ![Animated sequence through the Unity environment depicting Red Hook's waterfront and warehouse district](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-3.gif)
 
----
+
+&nbsp;
 
 # Fragments and Reconstruction
 
@@ -99,7 +108,8 @@ The goal is not to produce a complete model of the food system, but to create co
 
 ![Animated collage of site documentation photographs from Red Hook](/img/2026/tracing-food-tracing-fragility/sunni-tftf-images.gif)
 
----
+
+&nbsp;
 
 # Interactive Environment
 
@@ -123,29 +133,14 @@ Interaction is deliberately limited. Users can navigate and observe, but cannot 
   style="aspect-ratio: 16 / 9; width: 100%;">
 </iframe>
 
----
+&nbsp;
 
-# References
+![Library and reference materials](/img/2026/tracing-food-tracing-fragility/sunni-tftf-library.png)
 
-D'Ignazio, Catherine, and Lauren Klein. *Data Feminism*. MIT Press, 2020.
+![Data sources and frameworks](/img/2026/tracing-food-tracing-fragility/sunni-tftf-data.png)
 
-Crawford, Kate. *Atlas of AI*. Yale University Press, 2021.
 
-Demos, T. J. *Radical Futurisms*. Sternberg Press, 2023.
-
-Fuller, Matthew, and Eyal Weizman. *Investigative Aesthetics*. Verso, 2021.
-
-Graham, Stephen, and Simon Marvin. *Splintering Urbanism*. Routledge, 2001.
-
-Loukissas, Yanni Alexander. *All Data Are Local*. MIT Press, 2019.
-
-NYC Open Data.
-
-MapPLUTO.
-
-FEMA Flood Maps.
-
----
+&nbsp;
 
 # Acknowledgements
 
@@ -154,5 +149,3 @@ Special thanks to my advisor, Seth Thompson, for his guidance, support, and insp
 Thank you to Catherine Griffiths, Ziv Schneider, Christopher Woebken, Dan Miller, Celeste Layne, Adam Vosburgh, and Laura Kurgan for their feedback, conversations, and support throughout this journey.
 
 And finally, thank you to my peers, friends, and family for their encouragement and support throughout this work.
-
----
