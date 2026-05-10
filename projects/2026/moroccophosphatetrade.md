@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Morocco Phosphate Trade: A 25-Year Computational Analysis
+title: "Morocco Phosphate Trade: A 25-Year Computational Analysis"
 author: Rom El Idrissi
 advisor: Dan Miller
 year: 2026
