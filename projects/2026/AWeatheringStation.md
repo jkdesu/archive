@@ -33,7 +33,7 @@ Hydropatterning
 
 Autographic Visualization
 
-Drawing Ephemerality<img width="538" height="550" alt="image" src="https://github.com/user-attachments/assets/cab0d0d3-f87a-4039-9444-6c049b3bb45a" />
+Drawing Ephemerality
 
 
 ![South Eleuthera, The Bahamas, 24°55'28" N 76°19'45" W](/img/_example/south-eleuthera-the-bahamas.jpg)
@@ -47,7 +47,7 @@ Fragmentation//Continuity
 
 Autographic Visualization
 
-On-site//Off-site<img width="580" height="550" alt="image" src="https://github.com/user-attachments/assets/ff3dffc0-e7ac-4411-8888-b0d1d60c52f2" />
+On-site//Off-site
 
 
 
