@@ -23,6 +23,8 @@ links:
     font-family: 'IBM Plex Mono', monospace;
     font-size: 0.75rem;
     color: #888;
+    text-align: left;
+    width: 100%;
   }
   .project-body h1,
   .project-body h2,
