@@ -6,10 +6,10 @@ advisor: Joe Brennan
 year: 2026
 image: /img/2026/small-architecture-office-structure-assistant/cover.jpg
 links:
-    - text: Small Architecture Office Assistant Website
-        url:https://saraaaalin.github.io/Small-Architecture-Office-Assistant/
-    - text: Structure Assistant Website
-        url:https://saraaaalin.github.io/Small-Architecture-Office-Assistant/structure-assistant.html
+  - text: Small Architecture Office Assistant Website
+    url: https://saraaaalin.github.io/Small-Architecture-Office-Assistant/
+  - text: Structure Assistant Website
+    url: https://saraaaalin.github.io/Small-Architecture-Office-Assistant/structure-assistant.html
 ---
 
 ## Project Statement
