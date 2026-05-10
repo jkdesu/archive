@@ -8,8 +8,6 @@ links:
     url: https://claire-gall.github.io/AWeatheringStation-WebDocumentation/
 ---
 
-![Glynneath, UK, 51°45'23" N 3°38'58" W](/img/_example/glynneath-united-kingdom.jpg)
-
 PROJECT SCOPE: 
 
 A Weathering Station: Autographic Comprehension of a Fog Layer is an ongoing humanities and spatial research project that looks at systems of atmospheric relations as formed through granular local microclimates, which fog clouds signify in certain places of the world. This project views the fog layer as grounding people in a hyper-local ephemeral experience while lending their cognition to a realm of universal humidity, as air and air moisture reflect climatic fluctuation between the local, regional and planetary scale. This project creates an index of fog-informed logics around its legibility via various media forms- from digital translations to physical traces of trans-coded data, to critical writing. With this, the goal is to make the process of documenting illusory atmospheric data visible via movement and geometric notation. 
@@ -20,8 +18,6 @@ Clouds, while hard to pin down via remote sensing, are also being removed from s
 
  With an increase in climatic flux, clouds become more illusory and worthy of alternative modes of comprehension.
 
-
-![Muscat, Oman, 23°35'55" N 58°17'09" E](/img/_example/muscat-oman.jpg)
 
 TOWARDS A MANIFESTO OF UNIVERSAL HUMIDITY SENSING
 
@@ -36,7 +32,7 @@ Autographic Visualization
 Drawing Ephemerality
 
 
-![South Eleuthera, The Bahamas, 24°55'28" N 76°19'45" W](/img/_example/south-eleuthera-the-bahamas.jpg)
+
 THEMES OF AUTOGRAPHIC VISUALIZATION AND ATMOSPHERIC GEOMETRIES OF A SITE
 
 Extraction//Passive Capture
@@ -48,7 +44,6 @@ Fragmentation//Continuity
 Autographic Visualization
 
 On-site//Off-site
-
 
 
 
