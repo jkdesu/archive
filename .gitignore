@@ -43,3 +43,14 @@ node_modules/
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
+
+# TheWhiteRoom — local source files not for commit
+public/img/2026/TheWhiteRoom/intro_video.mov
+public/img/2026/TheWhiteRoom/intro_video.gif
+public/img/2026/TheWhiteRoom/virtualcommunity.mov
+public/img/2026/TheWhiteRoom/virtual community.png
+public/img/2026/TheWhiteRoom/Screenshot*
+public/img/2026/TheWhiteRoom/9f66da281ea7a037c0e4fa2daedb684a.jpg
+public/img/2026/TheWhiteRoom/f364f9fda4f442297e9e7ee7960bca19.jpg
+public/img/2026/TheWhiteRoom/duckrabbit.jpg
+public/img/2026/TheWhiteRoom/figure_8_1_spiral.png
