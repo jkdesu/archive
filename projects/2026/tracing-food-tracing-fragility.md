@@ -7,12 +7,27 @@ year: 2026
 image: /img/2026/tracing-food-tracing-fragility/sunni-tftf-hero.png
 
 links:
-  - text: Explore the Interactive Experience
+  - text: Interactive Experience
     url: https://play.unity.com/en/games/a9413fd9-1ce2-4bcd-bcc2-9cfb8812e387/tracing-food-tracing-fragility
 
   - text: Project Website
     url: https://sunnihuu.github.io/tracing-food-tracing-fragility/
 ---
+
+<link href="https://fonts.googleapis.com/css2?family=Esteban&display=swap" rel="stylesheet">
+<style>
+  .project-body {
+    font-family: 'Esteban', serif;
+  }
+  .project-body h1,
+  .project-body h2,
+  .project-body h3,
+  .project-body h4,
+  .project-body h5,
+  .project-body h6 {
+    font-style: italic;
+  }
+</style>
 
 ![Tracing Food, Tracing Fragility](/img/2026/tracing-food-tracing-fragility/sunni-tftf-hero.png)
 
