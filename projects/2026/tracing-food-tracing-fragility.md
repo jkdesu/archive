@@ -23,6 +23,8 @@ links:
     font-family: 'IBM Plex Mono', monospace;
     font-size: 0.75rem;
     color: #888;
+    text-align: left;
+    width: 100%;
   }
   .project-body h1,
   .project-body h2,
@@ -36,7 +38,6 @@ links:
 
 ![Tracing Food, Tracing Fragility](/img/2026/tracing-food-tracing-fragility/sunni-tftf-hero.png)
 
-# Provocation
 
 Food access often feels stable, immediate, and local. Grocery stores remain stocked, delivery systems continue operating, and food moves through the city with little interruption.
 
@@ -47,7 +48,6 @@ What happens when these systems are disrupted? How is vulnerability distributed 
 
 &nbsp;
 
-# Project
 
 ![Detail view of the Unity-based interactive environment showing Red Hook's logistical infrastructure](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-2.png)
 
@@ -76,7 +76,7 @@ The analysis reveals that vulnerability is unevenly distributed. Environmental e
 
 ![Food Vulnerability Index and Mapping Process](/img/2026/tracing-food-tracing-fragility/sunni-tftf-data.gif)
 
-![Research References and Mapping Framework](/img/2026/tracing-food-tracing-fragility/sunni-tftf-reference.png)
+![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-reference.png)
 
 
 &nbsp;

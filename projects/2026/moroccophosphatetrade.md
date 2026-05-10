@@ -28,16 +28,6 @@ A standalone interactive map was developed separately, featuring a year scrubber
 
 Color encoding is consistent across all artifacts: red for reserve data, blue for export market data, green for fertilizer and green ammonia data, amber for price and cost data.
 
-## Prototype
-
-The full interactive presentation is accessible at the link above. It includes ten slides covering reserve distribution, 25-year export revenue, export geography, partner product breakdown, processing input structure, input import origins, price correlation, and the green ammonia program timeline.
-
-<video
-  src="/img/2026/phosphatesprototypevideo.mov"
-  controls
-  style="aspect-ratio: 16 / 9; width: 100%;">
-</video>
-
 ## Imagery
 
 ![Phosphate mining and processing operations across Morocco's principal production sites: Khouribga, Benguerir, Bou Craa, and Jorf Lasfar.](/img/2026/phosphatesimagery.png)
