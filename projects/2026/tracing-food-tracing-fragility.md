@@ -78,7 +78,6 @@ The analysis reveals that vulnerability is unevenly distributed. Environmental e
 
 ![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-map-1.gif)
 
-![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-reference.png)
 
 
 &nbsp;
