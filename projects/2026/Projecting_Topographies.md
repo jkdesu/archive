@@ -4,8 +4,15 @@ title: "Projecting Topographies: Imaging Sand as a Site of Violence and Resistan
 author: Mika Yassur
 advisor: Josh Begley 
 year: 2026
-image: 
+image: img/2026/Projecting_Topographies/CDP_Griffiths_Yassur_Spring26_FilmStill2.png
 ---
+<iframe
+  src="https://vimeo.com/1190961262?fl=tl&fe=ec"
+  frameborder="0"
+  allow="autoplay; fullscreen; picture-in-picture"
+  allowfullscreen
+  style="aspect-ratio: 16 / 9; width: 100%;">
+</iframe>
 
 This piece maps Gaza’s topography as a site of military intervention and material resistance, examining the lineage of colonial vision and land intervention across scales and colonial regimes. 
 
@@ -25,14 +32,19 @@ The visualization of geologic ground through colonial mechanisms of seeing manif
 
 Following this, Kathryn Yusoff asks, how do we desediment the power of the plateau? That is, how do we erode the topographic mound underneath the feet of the surveyor, or, like Fred Moten and Stefano Harney write, how do we end the standpoint from which colonialism makes sense?[^3] 
 
+<iframe
+  src="https://vimeo.com/1190961145?fl=tl&fe=ec"
+  frameborder="0"
+  allow="autoplay; fullscreen; picture-in-picture"
+  allowfullscreen
+  style="aspect-ratio: 16 / 9; width: 100%;">
+</iframe>
 
 In this work, the desedimenting plateaus are the sand dunes that gather and sprawl along the Gaza coastline, blown up from the Sinai desert and deposited along the banks of the Wadi Gaza. Across the histories I trace, sand emerges as a resistant ecology and anti-foundation, a rift[^4] in the colonial gaze. 
 
 From afforestation practices implemented during the British Mandate’s Sand Drift Ordinance[^5] to Israeli colonization of the dunes between 1970 and 2005, sand is implicated in colonial taxonomies of “dead” land and mechanisms of expropriation despite Palestinian practices of dune cultivation and collective ownership. Simultaneously, sand resists these mechanisms in both representation and materiality, defying cartographic imperatives of fixity and colonial toxicity. 
 
-This work engages archival research, cartography, satellite image processing, analogue film, and desktop recordings to examine these modes of resistance and violence across scales. It renders visible the materiality of these processes through methods of collage and image treatment, ultimately taking the form of a video installation with live narration. 
-
-
+This work engages archival research, cartography, satellite image processing, analogue film, and desktop recordings to examine these modes of resistance and violence across scales. It renders visible the materiality of these processes through methods of collage and image treatment, taking the form of a video installation with live narration. 
 
 
 [^1]: Anthony Downey. "Neocolonial Visions: Algorithmic Violence and Unmanned Aerial Systems." _Aksioma,_ 2023. 
