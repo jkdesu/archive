@@ -133,26 +133,3 @@ Evans, Robert. “Translations from Drawing to Building”, 1986. Print.
  Haraway, Donna J.. “Staying with the Trouble: Making Kin in the Chthulucene”  Experimental Futures: Technological Lives, Scientific Arts, Anthropological Voices. Duke University Press, Durham and London, 2016, Print. 
 
     Haraway pushes my thinking into how I can stay in the trouble of atmospheric relationality within an attempt at a structural intervention. To not flatten a complex climatic system into datapoints or structural interception points, but to give the atmospheric system room to reveal itself to me. She says, “the task is to make kin in lines of inventive connection”. My work hopes to be a sliver of kinship building among the fog, the air moisture and the multi-species relational structures shared with it.
-
-<iframe
-  src="https://www.youtube.com/embed/laiVuCmEjlg"
-  frameborder="0"
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen
-  style="aspect-ratio: 16 / 9; width: 100%;">
-</iframe>
-
-<iframe
-  src="https://player.vimeo.com/video/158673446?h=30e98ac368&title=0&byline=0&portrait=0"
-  frameborder="0"
-  allow="autoplay; fullscreen; picture-in-picture"
-  allowfullscreen
-  style="aspect-ratio: 16 / 9; width: 100%;">
-</iframe>
-
-<video
-  src="/img/_example/earth.mp4"
-  controls
-  style="aspect-ratio: 16 / 9; width: 100%;">
-</video>
-
