@@ -47,12 +47,8 @@ Autographic Visualization
 
 On-site//Off-site
 
-      <div class="img-wrap">
-        <div class="img-box">
-          <img src="Untitled_Artwork.jpg" alt="Frame 1">
+<img src="Untitled_Artwork.jpg" alt="Frame 1">
           <div class="img-placeholder">Image 1</div>
-        </div>
-      </div>
 
 THE SITE AND THE STRUCTURAL PIECE + STRUCTURAL EXPERIMENTS
 
