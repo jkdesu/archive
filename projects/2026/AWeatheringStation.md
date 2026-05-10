@@ -45,6 +45,24 @@ Autographic Visualization
 
 On-site//Off-site
 
+THE SITE AND THE STRUCTURAL PIECE + STRUCTURAL EXPERIMENTS
+
+The development of this data model, method of visualization and physical structure will be integrated and validated on-site as this project is formalized within the headlands of Northern California as part of the research permit granted to me by the Golden Gate National Recreation Area to conduct field work on behalf of my fog-centered spatial research. The micro-climatic fluctuations of this area as it relates to regional patterns is the long term scope of this study. I am curious how the structure of the weather station itself provides new forms of resolution around the moisture patterning of the area and how this can translate to a greater cultural and geopolitical awareness of atmospheric conditions as hyper-localized while also planetary phenomena by traceing the local relationship to the regional to the planetary. 
+
+This project views the planetary in the context of the climate crisis as a mediated concept, a concept that which is continually comprehended via the mediums and interfaces we identify to interpret it. My subject of interpretation for this project is fog and air moisture as it condenses into clouds. That process is critical meteorologically as well as in the attempt to grasp the ontology of an atmosphere, a localized atmosphere as it moves towards the planetary atmosphere. As a designer who is most curious as to how to mediate the translation of atmospheric data into visual, technological, material and architectural mediums, my methods of translation is critically important to how the data is to be interpreted. 
+
+This project closes the gap between data generation and the physical phenomenon of fog cloud formation and moisture particle density aggregation via two autographic visualization design operations of material aggregation and trace-making. Within the digital realm, I add digital graphic elements and trans-coded objects to guide interpretation of the physical phenomena while simultaneously encoding the trans-coded information between both physical and digital forms to situate the project between a ground-based to planetary scale. 
+
+What data am I transcoding autographically?
+
+Within the scope of my capstone work, I centered my focus on inversion shift within the fog layer as it pertains to general moisture patterns of relative humidity in this local framework. I created 8 profiles of different points of elevation and TRI values (terrain roughness index) that begin to formulate potential relationships between these different points of the terrain as they interact with the fog layer. Terrain roughness and ground quality can significantly affect the strength of the fog's temperature inversion which directly affects how compressed or expanded the fog is on a given day. A stronger inversion correlates to a more compressed layer of fog that is even just a few meters off of the ground while a weaker inversion shows the fog climbing terrain and losing density. 
+
+This model tracks:- link to inversion sequencer site
+
+Dew point depression- the difference between the dew point temperature and the air temperature= DPD
+The mixing ratio is the average mixing ratio at the surface and top of the inversion layer- the mass of water in the air per mass of dry air- grams of moisture/kg of dry air
+Factor of non-linearity for inversion strength/weakening processes due to terrain variation at lower elevation points
+
 
 COMPUTATIONAL DESIGN PRACTICE DEVELOPMENT
 
