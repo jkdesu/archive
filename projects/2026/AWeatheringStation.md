@@ -46,6 +46,9 @@ Autographic Visualization
 On-site//Off-site
 
 
+COMPUTATIONAL DESIGN PRACTICE DEVELOPMENT
+
+This project showcases my process of experimentation around the visualization of atmospheric datapoints that centers continuity over precision and relationality over resolution, as provided via methods of autographic visualization where the process of data collection is the subject of focus rather than the data itself. I set my attention towards the method of which fog data could be computed on materials and through geometric form to test out a new form of atmospheric legibility that is grounded in ground-based forms of sensing, data processing and data integration. 
 
 <iframe
   src="https://www.youtube.com/embed/laiVuCmEjlg"
