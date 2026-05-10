@@ -45,7 +45,7 @@ The Grasshopper definition includes span detection, beam layout generation, prel
 
 <figure class="figure--column-width">
   <img
-    src="/img/2026/small-architecture-office-structure-assistant/system%20overview.png"
+    src="/img/2026/small-architecture-office-structure-assistant/system-overview.png"
     alt="Development process: from expertise to computation to real-time feedback." />
   <figcaption>Development process: from expertise to computation to real-time feedback.</figcaption>
 </figure>
@@ -89,7 +89,7 @@ Along with the tool itself, I also developed a product layer: a website.
 The website explains, distributes, and documents the system, making it accessible to target users. It also provides installation guidance and direct download access, so the tool can be easily adopted by people with no computational background.
 
 <video
-  src="/img/2026/small-architecture-office-structure-assistant/Website%20Walkthrough.mp4"
+  src="/img/2026/small-architecture-office-structure-assistant/website-walkthrough.mp4"
   controls
   playsinline
   style="aspect-ratio: 16 / 9; width: 100%;">
@@ -105,7 +105,7 @@ The future is not about replacing experts, but about making expertise continuous
 
 <figure class="figure--column-width">
   <img
-    src="/img/2026/small-architecture-office-structure-assistant/scope%20of%20future.png"
+    src="/img/2026/small-architecture-office-structure-assistant/scope-of-future.png"
     alt="Multi-Consultant Assistant System: embedded design intelligence modules for structure, MEP, zoning, landscape, envelope, and sustainability." />
   <figcaption>Multi-Consultant Assistant System: embedded design intelligence across multiple domains.</figcaption>
 </figure>
