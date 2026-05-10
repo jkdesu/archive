@@ -35,7 +35,7 @@ The full interactive presentation is accessible at the link above. It includes t
 <video
   src="/img/2026/phosphatesprototypevideo.mov"
   controls
-  style="aspect-ratio: 16 / 9; width: 100%;">
+  style="width: 100%; aspect-ratio: 16 / 9;">
 </video>
 
 ## Imagery
