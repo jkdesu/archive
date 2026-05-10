@@ -10,6 +10,7 @@ links:
 
 ![Glynneath, UK, 51°45'23" N 3°38'58" W](/img/_example/glynneath-united-kingdom.jpg)
 
+PROJECT SCOPE: 
 
 A Weathering Station: Autographic Comprehension of a Fog Layer is an ongoing humanities and spatial research project that looks at systems of atmospheric relations as formed through granular local microclimates, which fog clouds signify in certain places of the world. This project views the fog layer as grounding people in a hyper-local ephemeral experience while lending their cognition to a realm of universal humidity, as air and air moisture reflect climatic fluctuation between the local, regional and planetary scale. This project creates an index of fog-informed logics around its legibility via various media forms- from digital translations to physical traces of trans-coded data, to critical writing. With this, the goal is to make the process of documenting illusory atmospheric data visible via movement and geometric notation. 
 
@@ -22,16 +23,34 @@ Clouds, while hard to pin down via remote sensing, are also being removed from s
 
 ![Muscat, Oman, 23°35'55" N 58°17'09" E](/img/_example/muscat-oman.jpg)
 
-Ut pellentesque venenatis leo, aliquet congue metus volutpat vitae. Ut vestibulum id massa ac pellentesque[^3]. Nullam porttitor dolor quis arcu tristique, vel feugiat lacus aliquam. Duis egestas dolor eget nisl dignissim pulvinar. Mauris imperdiet felis a mauris iaculis dignissim. Mauris eu nunc ut odio tempor feugiat ut in orci. Vestibulum congue, elit id tincidunt posuere, purus felis tincidunt nulla, semper ultrices lectus sapien sit amet ante. Nulla eleifend tristique enim eget tempor[^4]. Phasellus sagittis velit lectus, in fermentum neque laoreet et. Maecenas nec varius tortor, sit amet maximus nulla. Integer porta odio id est lobortis auctor. Donec diam ex, condimentum non pharetra et, scelerisque at elit. Maecenas sollicitudin quam in scelerisque finibus. Donec vehicula lacus ac quam lobortis, at auctor lorem malesuada.
+TOWARDS A MANIFESTO OF UNIVERSAL HUMIDITY SENSING
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-3. Vestibulum auctor dapibus neque.
-4. Nunc dignissim risus id metus.
+Hydrosocial Space
+
+Water-led Planning
+
+Hydropatterning
+
+Autographic Visualization
+
+Drawing Ephemerality<img width="538" height="550" alt="image" src="https://github.com/user-attachments/assets/cab0d0d3-f87a-4039-9444-6c049b3bb45a" />
+
 
 ![South Eleuthera, The Bahamas, 24°55'28" N 76°19'45" W](/img/_example/south-eleuthera-the-bahamas.jpg)
+THEMES OF AUTOGRAPHIC VISUALIZATION AND ATMOSPHERIC GEOMETRIES OF A SITE
 
-This project is
+Extraction//Passive Capture
+
+Resolution
+
+Fragmentation//Continuity
+
+Autographic Visualization
+
+On-site//Off-site<img width="580" height="550" alt="image" src="https://github.com/user-attachments/assets/ff3dffc0-e7ac-4411-8888-b0d1d60c52f2" />
+
+
+
 
 <iframe
   src="https://www.youtube.com/embed/laiVuCmEjlg"
