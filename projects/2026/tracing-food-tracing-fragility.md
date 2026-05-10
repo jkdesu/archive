@@ -51,6 +51,8 @@ What happens when these systems are disrupted? How is vulnerability distributed 
 &nbsp;
 
 
+# Tracing Food, Tracing Fragility
+
 Tracing Food, Tracing Fragility is a spatial and interactive investigation into the infrastructures that sustain everyday food access in New York City.
 
 The project combines GIS mapping, spatial analysis, photogrammetry, and an interactive Unity environment to examine how food systems operate across scales — from global logistics networks to neighborhood streets and household conditions.
@@ -138,6 +140,6 @@ Special thanks to my advisor, Seth Thompson, for his guidance, support, and insp
 
 Thank you to Catherine Griffiths, Ziv Schneider, Christopher Woebken, Dan Miller, Celeste Layne, Adam Vosburgh, and Laura Kurgan for their feedback, conversations, and support throughout this journey.
 
-And finally, thank you to my peers, friends, and family for their encouragement and support throughout this work.
+And finally, thank you to my peers, friends, and family for their encouragement and support throughout the past year.
 
 ![](/img/2026/tracing-food-tracing-fragility/sunni-tftf-unity-5.png)
