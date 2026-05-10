@@ -73,6 +73,66 @@ COMPUTATIONAL DESIGN PRACTICE DEVELOPMENT
 
 This project showcases my process of experimentation around the visualization of atmospheric datapoints that centers continuity over precision and relationality over resolution, as provided via methods of autographic visualization where the process of data collection is the subject of focus rather than the data itself. I set my attention towards the method of which fog data could be computed on materials and through geometric form to test out a new form of atmospheric legibility that is grounded in ground-based forms of sensing, data processing and data integration. 
 
+LITERATURE
+
+
+
+Durham-Peters, John. “The Marvelous Clouds: Toward a Philosophy of Elemental Media”, 2015. Print.  
+
+    To ground my project in philosophies of elemental media, it’s key to reference Peters who claims that in order to analyse cultural forms of manipulating natural elements from a media standpoint, the conversation has to be grounded in a philosophy of elemental media. He argues that media operate as infrastructures where nature and culture join. In this, he argues that environments and clouds are enacted as forms of media rather than just containers for them, a boundary condition that my project experiments with by attempting to infuse structural and land-based design with the media relations of cloud and fog visibility. A historical look at media theory relative to elemental phenomena is key for me to unpack where those boundary conditions between element and infrastructure does and should exist.   
+
+Horn, Eva. “Air as Medium” Grey Room (2018) (73): 6–25.  Web. https://doi.org/10.1162/grey_a_00254
+
+    In this piece, Horn constructs an argument for being in the air, calling to other theorists to help invoke air as not a given background, but a foregrounded issue of our time. Horn expands from the basis of air analysis within the natural sciences (what is in the air and how it behaves) to include a wider study of air as it is looked at within climatology, atmospherics and as a form of weather. My project explores what it is to be in the fog, to be in a dewey environment.  
+
+Zylinska, Joanna. “On Life, Movement and Stoppage: Agency and Ethics in the Anthropocene”, Special Section of Leonardo Transactions: Agency in Movement, Part 1, Online ISSN: 1530-9282Print ISSN: 0024-094X, April 01 2015. 
+
+   In this essay, Joanna Zylinska speaks about her concept of critical vitalism which I continue to ground my work in, inciting that agency is not something that is a given, but is something that an object creates in action within the relationship dynamics and structures that tie it to other beings, objects and the systems it is suspended within. 
+
+   
+Furuhata, Yuriko, “Of Dragons and Geoengineering: Rethinking Elemental Media” States of Media + Environments, Vol. 1, Issue 1, 2019, November 22, 2019 PDT, https://doi.org/10.1525/001c.10797
+
+    In this piece, Furuhata speaks to the difference between historical forms of architecture which serve as more passive forms of weather manipulation, such as dragon holes in many highrises in Hong Kong which allow for passive airflow in contrast to more overt forms of geo-engineering such as cloud seeding. 
+
+   
+Gabrys, Jennifer, “Becoming Planetary” E-flux Architecture. Accumulation, October 2018. Web. https://www.e-flux.com/architecture/accumulation/217051/becoming-planetary
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Gabrys invokes a process of becoming planetary through unsettled modes of practice, embedded, environmental, chaotic modes of practice. Moving out of the planetarium and into the forest for planetary as praxis where the planetary is unsettled. My project will operate as a hybridized mesocosm, moving in and out of the coastal forest. 
+
+
+
+
+
+   	
+
+Wigley, Mark. Chronic Whiteness. Sick Architecture, e-flux Architecture. Web. https://www.e-flux.com/architecture/sick-architecture/360099/chronic-whiteness
+
+    Sick Architecture consists of 35 essays each providing its own context for a historical intersection between architecture and disease, with original research developed by Beatrice Colomina of Princeton University’s architecture program. The essay I will not is written by Mark Wigley called Chronic Whiteness in which he, in part, discusses the phenomena of whiteness as the baseline for clean, sterile architecture, that with every layer of whiteness, a surface is renewed, refreshed all the while it is simply layering a false sense of renewal on layers of atmospheric accumulation and decay, which my research seeks to investigate. Instead of layering for surface renewal, surface weathering.  
+
+“The whiteness of architecture pulsates. Whiteness is not a fixed thing but the idea of a fixed thing constructed by repetition. It is repeated not just through endless rewhitenings, but in the belief that each rewhitening is a whole new beginning; that white is always “fresh” because it enacts a “clean start,” a return to zero. It paradoxically takes such a huge labor to construct this sense of zero.“
+
+
+
+Evans, Robert. “Translations from Drawing to Building”, 1986. Print.
+
+    Evans points to what is distinctly not drawing and the limitations of how to access this in the architectural drawing itself. He argues in reference to forms of artistic work that intersect architecture and which could not intersect with drawing in their essence- performance art, earth art etc. Evan argues that through expanding the representational value and role of an architectural drawing, the conversion potential between the drawing and built structure gains ambiguity which for my purposes in centering the ambiguity of an ephemeral natural system such as fog and air moisture, the tension set forth by architectural drawing and planning is crucial to account for. 
+
+ Haraway, Donna J.. “Staying with the Trouble: Making Kin in the Chthulucene”  Experimental Futures: Technological Lives, Scientific Arts, Anthropological Voices. Duke University Press, Durham and London, 2016, Print. 
+
+    Haraway pushes my thinking into how I can stay in the trouble of atmospheric relationality within an attempt at a structural intervention. To not flatten a complex climatic system into datapoints or structural interception points, but to give the atmospheric system room to reveal itself to me. She says, “the task is to make kin in lines of inventive connection”. My work hopes to be a sliver of kinship building among the fog, the air moisture and the multi-species relational structures shared with it.
+
 <iframe
   src="https://www.youtube.com/embed/laiVuCmEjlg"
   frameborder="0"
@@ -95,9 +155,3 @@ This project showcases my process of experimentation around the visualization of
   style="aspect-ratio: 16 / 9; width: 100%;">
 </video>
 
-[^1]: Johna Hjerpe, “Fantastic Perspective,” _Serving Library_ #12 (2017).
-[^2]: Caitlin Jones, “The function of the studio (when the studio is a laptop),” Art Lies 67 (2010).
-[^3]: ann haeyoung, “How to work within power structures that don't work for you,” _The Creative Independent_ (2019).
-[^4]: WBYA?, _Who Builds Your Architecture? A Critical Field Guide_ (2017).
-[^5]: Jason Alderman, Tega Brain, Taeyoon Choi, Luisa Pereira, “A Field Guide to Debugging,” p5.js (2015).
-[^6]: Keller Easterling, “A losing game: harnessing failure,” _The Architectural Review_ 1458 (2019).
