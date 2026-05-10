@@ -98,24 +98,9 @@ Furuhata, Yuriko, “Of Dragons and Geoengineering: Rethinking Elemental Media�
 Gabrys, Jennifer, “Becoming Planetary” E-flux Architecture. Accumulation, October 2018. Web. https://www.e-flux.com/architecture/accumulation/217051/becoming-planetary
 
 
-
-
-
-
-
-
-
-
-
-
-
     Gabrys invokes a process of becoming planetary through unsettled modes of practice, embedded, environmental, chaotic modes of practice. Moving out of the planetarium and into the forest for planetary as praxis where the planetary is unsettled. My project will operate as a hybridized mesocosm, moving in and out of the coastal forest. 
 
 
-
-
-
-   	
 
 Wigley, Mark. Chronic Whiteness. Sick Architecture, e-flux Architecture. Web. https://www.e-flux.com/architecture/sick-architecture/360099/chronic-whiteness
 
