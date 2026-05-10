@@ -7,12 +7,37 @@ layout: page
 <div class="project">
   <div class="project-header container">
     <div class="project-context h1">{{ year }}</div>
-    <div class="project-title h1">
-      <h1>{{ title }}</h1>
+    <div class="project-title h1{% if title_one_line %} project-title--one-line{% endif %}{% if title_centered %} project-title--centered{% endif %}{% if title_line_1 and title_line_2 %} project-title--split-headline{% endif %}">
+      <h1>{% if title_line_1 and title_line_2 %}{{ title_line_1 }}<br />{{ title_line_2 }}{% else %}{{ title }}{% endif %}</h1>
       <h2>{{ author }}</h2>
     </div>
   </div>
+  {% if image and header_image %}
+  <div class="project-hero container">
+    <figure class="project-hero-figure">
+      <img
+        class="project-hero-image"
+        src="{{ image }}"
+        alt="{{ title | escape }}"
+        loading="eager"
+        decoding="async" />
+    </figure>
+  </div>
+  {% endif %}
   {% if links.first %}
+    {% if links_as_buttons %}
+    <div class="project-links project-links--buttons">
+      <div class="container project-link-buttons-inner">
+        {% for link in links %}
+        <a
+          class="project-link-button h4"
+          href="{{ link.url }}"
+          target="_blank"
+          rel="noopener noreferrer">{{ link.text }}</a>
+        {% endfor %}
+      </div>
+    </div>
+    {% else %}
     <ul class="project-links h4">
       {% for link in links %}
       <li class="project-link-background">
@@ -25,6 +50,7 @@ layout: page
       </li>
       {% endfor %}
     </ul>
+    {% endif %}
   {% endif %}
   <div class="project-meta container">
     <dl class="project-meta-grid">
@@ -37,6 +63,6 @@ layout: page
     </dl>
   </div>
   <div class="project-body container">
-    <div class="project-content content">{{ content }}</div>
+    <div class="project-content content{% if justify_content %} project-content--justify{% endif %}">{{ content }}</div>
   </div>
 </div>
