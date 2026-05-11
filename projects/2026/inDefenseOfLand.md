@@ -20,7 +20,7 @@ links:
 
 # Provocation
 
-***What does it mean to position a hacktivist breach within five centuries of Indigenous land defense across the Americas, and how do we make that history legible without flattening the distinct, complex histories of the peoples who have lived and continue to live it? What does it mean to create a digital narrative experience that dismantles the colonial logics embedded within the video game medium it borrows from, asking the viewer to confront the kinstillations of Indigenous resistance, the trouble of the archive, and the multiplicity of ways Indigenous peoples have refused, and continue to refuse, the project of settler colonialism?***
+***What does it mean to position a hacktivist breach within five centuries of Indigenous land defense across the Americas, and how do we make that history legible without flattening the distinct, complex histories of the peoples who have lived and continue to live it? What does it mean to create a digital narrative experience that dismantles the colonial logics embedded within the immersive, interactive media it borrows from, asking the viewer to confront the kinstillations of Indigenous resistance, the trouble of the archive, and the multiplicity of ways Indigenous peoples have refused, and continue to refuse, the project of settler colonialism?***
 
 In March of 2022, a hacktivist collective calling itself Guacamaya, the Maya word for the macaw parrot, breached the networks of mining companies operating in Guatemala's Fenix nickel project, leaking over four terabytes of data exposing working conditions, environmental damage, gender-based violence, and the internal corporate messaging that had coordinated it all. They understood themselves as acting in defense of the Maya Q'eqchi', the Indigenous people who have existed in reciprocity with their lands prior to and during the ongoing mining projects, as well as all Indigenous peoples of Abya Yala, the Kuna term for the Americas meaning "land in full maturity."
 
@@ -30,13 +30,12 @@ In March of 2022, a hacktivist collective calling itself Guacamaya, the Maya wor
 </div>
 
 
-What I kept returning to was a single passage from one of their statements:
+And while the technical capabilities of Guacamaya, managing to utilize a series of open source tools and tactics (from email phishing to the exploitation of zero-day vulnerabilities), what I kept returning to was a single passage from one of their public statements:
 
 > "This form of resistance is just one more tool of what we have been doing for more than five centuries. It is a tool of this time. Haven't Indigenous peoples' leaders been stigmatized for defending their territory for ages?"[^1]
 
 This statement reframes what might otherwise be read as a disruptive, cyberterroristic act as something far older: a continuation of Indigenous refusal and resistance. In aligning this form of digital insurgency with centuries of land defense, Guacamaya insists that although the medium is new, the struggle they are working within is not.
 
----
 <br>
 
 # In Defense of the Land
@@ -55,7 +54,8 @@ The goal of this digital narrative experience is twofold. For those encountering
 
 The experience moves through a sequence of distinct natural environments: arctic tundra, forest, grassland, mountain pass, ocean, rainforest, and finally the dark digital corridor of the hack itself. The viewer walks through each environment as written narration, audio of prevalent scholars engaging in Critical Native and Indigenous studies, and archival imagery surface alongside them.
 
-![](/img/2026/inDefenseOfLand/environments_grid.png)
+![Various natural environments within the digital narrative experience](/img/2026/inDefenseOfLand/environments_grid.png)
+
 <br>
 
 ## The Subtitles as Essay Spine
@@ -82,7 +82,7 @@ Some of these images originate from a colonial lens, produced by and for institu
   <img src="/img/2026/inDefenseOfLand/popupExample1.png" style="width:50%;object-fit:cover;">
   <img src="/img/2026/inDefenseOfLand/popupExample2.png" style="width:50%;object-fit:cover;">
 </div>
----
+
 <br>
 
 # Computational Design Practice
@@ -93,15 +93,15 @@ This project is the culmination of my discovery and development of a computation
 
 I am interested in how interactive and immersive digital environments can serve as sites for the legible articulation of complex historical, political, and relational arguments, particularly in relation to Indigenous resistance and land defense. In wrestling with Guacamaya's claim, I have been grappling with two conceptual frameworks throughout this project, which I hold together because they are answering different but interlocking questions.
 
-![](/img/2026/inDefenseOfLand/archiveImg.png)
+![A subset of archival imagery and artworks featured](/img/2026/inDefenseOfLand/archiveImg.png)
 
 The first is Joseph M. Pierce's (Cherokee Nation) framework of speculative relations and kinstillation,[^2] which presents an opportunity to recognize a unified decolonial struggle across the Americas while making clear not to flatten the individual and complex histories of distinct Indigenous groups. Through this framing, distinct movements of decolonial resistance can be put in conversation with one another, in tandem rather than collapsed, as they are all ultimately working to defend the land and, inherently, themselves.
 
-The second is Jodi Byrd's (Chickasaw Nation) argument regarding the ways in which traditional video games, and media like it, openly reflect and reinstantiate settler colonial operations and ideologies.[^3] As Byrd writes, "in the repetitious invasion-to-ashes script, video games stage for us a sovereign nomos that continually spawns Indigeneity as only ever unknowable, uninhabitable objects of conquest who must inevitably be already dead while that same nomos seizes territoriality." But within Byrd's work, they leave room to argue that the conventions that make games complicit in colonial logics, namely immersion, inhabitation, and the movement of a body through an environment, are also the conventions that, when redirected, can do the opposite work.
+The second is Jodi Byrd's (Chickasaw Nation) argument regarding the ways in which traditional video games, and immersive media like it, openly reflect and reinstantiate settler colonial operations and ideologies.[^3] As Byrd writes, "in the repetitious invasion-to-ashes script, video games stage for us a sovereign nomos that continually spawns Indigeneity as only ever unknowable, uninhabitable objects of conquest who must inevitably be already dead while that same nomos seizes territoriality." But within Byrd's work, they leave room to argue that the conventions that make games complicit in colonial logics, namely immersion, inhabitation, and the movement of a body through an environment, are also the conventions that, when redirected, can do the opposite work.
 
 This project takes precedent from games such as Umurangi Generation by Māori developer Naphtali Faulkner, in which the act of bearing witness through the environment becomes the form of resistance the work itself enacts, and Never Alone (Kisima Ingitchuna), developed in collaboration with the Iñupiaq community of Alaska as an act of cultural continuity and education.
 
-![](/img/2026/inDefenseOfLand/inspo.png)
+![Various project and written references](/img/2026/inDefenseOfLand/inspo.png)
 
 <br>
 
@@ -136,25 +136,38 @@ Where the open-world game traditionally invites the player to conquer empty terr
 
 ## A Companion Two-Channel Video Installation: Resistance in Plaintext
 
-Alongside the digital narrative experience, this work includes a two-channel video installation titled *Resistance in Plaintext*. The first channel, *Methods of Refusal*, displays a grid of various forms of what is to be considered refusal and resistance of the Maya Q'eqchi, from protest to ceremony to people simply existing on the land, overlaid with the hack tutorial Guacamaya themselves published. The second channel, *Exposure*, layers leaked documents from the Guacamaya breach over a promotional video produced by Pronico, the corporation operating the Fenix nickel mine. Together, the two channels make legible what was always hidden in plain sight.
+The digital narrative experience is accompanied by a two-channel video installation titled Resistance in Plaintext, developed to make visible a dimension of resistance and refusal that risks being obscured when the focus remains on dramatic political insurgency alone. The hack, as an act, is legible to most audiences as a form of resistance precisely because it is spectacular in its disruption. But what the installation is concerned with is the much wider, quieter, and equally insistent register of refusal that has always accompanied and sustained such moments: the maintenance of relations with the land, the continuity of kinship structures, song, dance, ceremony, and the daily, ongoing insistence on Indigenous presence in a context designed to eliminate it. Settler colonial operations do not pause between moments of confrontation. Neither does the refusal of them.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
   <iframe src="https://www.youtube.com/embed/spspradFaiA?autoplay=1&mute=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
----
+The first channel, Methods of Refusal, is a collage of video footage representing this broader definition of resistance in practice among the Maya Q'eqchi': protest and direct action alongside ceremony, song, dance, communal gathering, and people simply existing on and with the land. These are not background to the resistance. They are its substance and its continuance. Overlaid across this collage in its entirety is the two-hour tutorial that Guacamaya themselves published following the breach, walking through step by step the tools, tactics, and procedures they used to penetrate the networks of the mining companies and associated government entities. The effect is intentional: the technical and the relational, the insurgent and the everyday, run together without hierarchy, because Guacamaya themselves never separated them.
+
+![Screenshot from Methods of Refusal](/img/2026/inDefenseOfLand/methodsOfRefusal.png)
+
+The second channel, Exposure, layers a selection of documents leaked by Guacamaya from Pronico, one of the mining companies operating on Maya Q'eqchi' land, directly over a promotional video produced by the company itself. The leaked documents, acquired through an open-source database, surface what the promotional material was built to conceal: the internal communications, operational decisions, and recorded harms that characterize the company's actual relationship to the land and to the people living on it. The juxtaposition does not need commentary. What the corporation made for public consumption and what it produced internally are placed in plain view, side by side, and the distance between them is the argument.
+Together, the two channels ask the viewer to hold what is usually kept separate: resistance as a total way of life, not as a series of exceptional events, and the infrastructures of harm that make that resistance necessary.
+
+![Screenshot from Exposure](/img/2026/inDefenseOfLand/exposure.png)
+
+<br>
+
+## Conclusion
+
+Taken together, In Defense of the Land and Resistance in Plaintext are an attempt to do what Guacamaya named: to recognize that the tools change, but the work does not. The interactive experience asks the viewer to move through that work, to be present with it across five centuries and a continent's worth of land and peoples. The installation asks the viewer to see what that work is up against, and what it looks like in its fullness, not only at the moment of rupture but in the ceremony, the gathering, the song, the simple fact of continuing to exist on the land.
+
 <br>
 
 [^1]: Guacamaya. "RESISTENCIA." Distributed via Enlace Hacktivista, 2022.
 [^2]: Pierce, Joseph M. *Speculative Relations: Indigenous Worlding and Repair*. Durham: Duke University Press, 2025.
 [^3]: Byrd, Jodi A. *The Transit of Empire: Indigenous Critiques of Colonialism*. Minneapolis: University of Minnesota Press, 2011.
-[^4]: Wolfe, Patrick. "Settler Colonialism and the Elimination of the Native." *Journal of Genocide Research* 8, no. 4 (2006): 387–409.
-[^5]: Coulthard, Glen Sean. *Red Skin, White Masks: Rejecting the Colonial Politics of Recognition*. Minneapolis: University of Minnesota Press, 2014.
-[^6]: Coulthard, Glen Sean, and Leanne Betasamosake Simpson. "Grounded Normativity / Place-Based Solidarity." *American Quarterly* 68, no. 2 (2016): 249–255.
-[^7]: Simpson, Audra. *Mohawk Interruptus: Political Life Across the Borders of Settler States*. Durham: Duke University Press, 2014.
-[^8]: Estes, Nick. *Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and the Long Tradition of Indigenous Resistance*. London: Verso, 2019.
-[^9]: Deloria, Vine, Jr. *Custer Died for Your Sins: An Indian Manifesto*. New York: Macmillan, 1969.
-[^10]: Deloria, Vine, Jr. *God Is Red: A Native View of Religion*. New York: Grosset & Dunlap, 1973.
-[^11]: Barker, Joanne. *Red Scare: The State's Indigenous Terrorist*. Oakland: University of California Press, 2021.
-[^12]: Recollet, Karyn. "Glyphing Decolonial Love through Urban Flash Mobbing and Walking with Our Sisters." *Curriculum Inquiry* 45, no. 1 (2015): 129–145.
+[4] Wolfe, Patrick. "Settler Colonialism and the Elimination of the Native." *Journal of Genocide Research* 8, no. 4 (2006): 387–409.
+[5] Coulthard, Glen Sean. *Red Skin, White Masks: Rejecting the Colonial Politics of Recognition*. Minneapolis: University of Minnesota Press, 2014.
+[6] Coulthard, Glen Sean, and Leanne Betasamosake Simpson. "Grounded Normativity / Place-Based Solidarity." *American Quarterly* 68, no. 2 (2016): 249–255.
+[7] Simpson, Audra. *Mohawk Interruptus: Political Life Across the Borders of Settler States*. Durham: Duke University Press, 2014.
+[8] Estes, Nick. *Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and the Long Tradition of Indigenous Resistance*. London: Verso, 2019.
+[9] Deloria, Vine, Jr. *Custer Died for Your Sins: An Indian Manifesto*. New York: Macmillan, 1969.
+[10] Deloria, Vine, Jr. *God Is Red: A Native View of Religion*. New York: Grosset & Dunlap, 1973.
+[11] Barker, Joanne. *Red Scare: The State's Indigenous Terrorist*. Oakland: University of California Press, 2021.
 
