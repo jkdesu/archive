@@ -2,7 +2,7 @@
 layout: project
 title: "Volatility of Everyday"
 author: Ji-in Kang
-advisor: William Martins
+advisor: William Martin
 year: 2026
 image: /img/2026/volatility-of-everyday/capstone1.png
 links:
