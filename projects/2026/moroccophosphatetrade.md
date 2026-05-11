@@ -30,7 +30,7 @@ Color encoding is consistent across all artifacts: red for reserve data, blue fo
 
 ## Prototype
 
-<iframe src="https://www.youtube.com/embed/CVGRuzZCMZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://youtu.be/CVGRuzZCMZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Imagery
 
