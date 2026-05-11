@@ -28,6 +28,10 @@ A standalone interactive map was developed separately, featuring a year scrubber
 
 Color encoding is consistent across all artifacts: red for reserve data, blue for export market data, green for fertilizer and green ammonia data, amber for price and cost data.
 
+## Prototype
+
+<iframe src="https://www.youtube.com/embed/CVGRuzZCMZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Imagery
 
 ![Phosphate mining and processing operations across Morocco's principal production sites: Khouribga, Benguerir, Bou Craa, and Jorf Lasfar.](/img/2026/phosphatesimagery.png)
@@ -63,3 +67,4 @@ Reuters. "Morocco's OCP plans $7bln green ammonia plant." June 2023.
 [^3]: OCP Group. Full Year 2024 Results Publication. March 2025.
 [^4]: Worley Group. Annual Report 2024.
 [^5]: OCP Group. Investment Plan 2023 to 2027. ocpgroup.ma. Confirmed by Reuters, June 2023.
+
