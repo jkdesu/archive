@@ -7,21 +7,25 @@ year: 2026
 image: /img/2026/uncontrolled_environments/IMG_4213.jpeg
 ---
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem; width: 90vw; margin-left: calc(50% - 45vw);">
-  <div>
-    <img src="/img/2026/uncontrolled_environments/CDP_GriffithsSchneider_Theodorakis_SP2026_Form_Failure.gif" alt="Form Failure" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" />
+<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;">
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem; padding-bottom: 0.5rem;">
+    <div>
+      <img src="/img/2026/uncontrolled_environments/CDP_GriffithsSchneider_Theodorakis_SP2026_Form_Failure.gif" alt="Form Failure" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" />
+    </div>
+    <div>
+      <img src="/img/2026/uncontrolled_environments/CDP_GriffithsSchneider_Theodorakis_SP2026_Engineered.gif" alt="Engineered Circadian Rhythms" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" />
+    </div>
+    <div>
+      <img src="/img/2026/uncontrolled_environments/CDP_GriffithsSchneider_Theodorakis_SP2026_Toxic.gif" alt="Toxic by Design" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" />
+    </div>
   </div>
-  <div>
-    <img src="/img/2026/uncontrolled_environments/CDP_GriffithsSchneider_Theodorakis_SP2026_Engineered.gif" alt="Engineered Circadian Rhythms" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" />
-  </div>
-  <div>
-    <img src="/img/2026/uncontrolled_environments/CDP_GriffithsSchneider_Theodorakis_SP2026_Toxic.gif" alt="Toxic by Design" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" />
-  </div>
-  <div>
-    <img src="/img/2026/uncontrolled_environments/CDP_GriffithsSchneider_Theodorakis_SP2026_Living_Systems.gif" alt="Living Systems" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" />
-  </div>
-  <div>
-    <img src="/img/2026/uncontrolled_environments/CDP_GriffithsSchneider_Theodorakis_SP2026_Mushroom.gif" alt="Mushroom experiment" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" />
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem;">
+    <div>
+      <img src="/img/2026/uncontrolled_environments/CDP_GriffithsSchneider_Theodorakis_SP2026_Living_Systems.gif" alt="Living Systems" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" />
+    </div>
+    <div>
+      <img src="/img/2026/uncontrolled_environments/CDP_GriffithsSchneider_Theodorakis_SP2026_Mushroom.gif" alt="Mushroom experiment" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" />
+    </div>
   </div>
 </div>
 
