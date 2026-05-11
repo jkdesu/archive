@@ -20,6 +20,14 @@ As air moisture is both a by-product of a micro-climatic process and a trace of 
 “The forest images included here are then less representational and more operational. Neither a worm’s-eye view nor a bird’s-eye view, they ask that one begin from within the thick of planetary inhabitations, in the forests as they are lost and potentially remade, and as they reconfigure relations across people, more-than-humans, technologies, politics, and the planetary. How does this gaze from within planetary inhabitations generate multiple modes of praxis?”
 -Jennifer Gabrys in Accumulation for Becoming Planetary, e-flux Architecture, 2018 
 
+<iframe
+  src= ""
+  frameborder="0"
+  allow="autoplay; fullscreen; picture-in-picture"
+  allowfullscreen
+  style="aspect-ratio: 16 / 9; width: 100%;">
+</iframe>
+
 PROJECT SCOPE: 
 
 A Weathering Station: Autographic Comprehension of a Fog Layer is an ongoing humanities and spatial research project that looks at systems of atmospheric relations as formed through granular local microclimates, which fog clouds signify in certain places of the world. This project views the fog layer as grounding people in a hyper-local ephemeral experience while lending their cognition to a realm of universal humidity, as air and air moisture reflect climatic fluctuation between the local, regional and planetary scale. This project creates an index of fog-informed logics around its legibility via various media forms- from digital translations to physical traces of trans-coded data, to critical writing. With this, the goal is to make the process of documenting illusory atmospheric data visible via movement and geometric notation. 
@@ -31,7 +39,16 @@ Clouds, while hard to pin down via remote sensing, are also being removed from s
  With an increase in climatic flux, clouds become more illusory and worthy of alternative modes of comprehension.
 
 
-TOWARDS A MANIFESTO OF UNIVERSAL HUMIDITY SENSING
+A MANIFESTO OF UNIVERSAL FOG SENSING AND ECOLOGICAL MILIEU
+
+Fog as a cultural artifact.
+
+Fog as an endangered species. 
+
+Fog as a weighted socio-cultural tool. 
+
+
+PROJECT THEMES: 
 
 Hydrosocial Space
 
@@ -42,8 +59,6 @@ Hydropatterning
 Autographic Visualization
 
 Drawing Ephemerality
-
-
 
 THEMES OF AUTOGRAPHIC VISUALIZATION AND ATMOSPHERIC GEOMETRIES OF A SITE
 
