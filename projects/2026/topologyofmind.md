@@ -4,7 +4,8 @@ title: Topology of Mind
 author: Minsup Chung
 advisor: Adam Vosburgh
 year: 2026
-image: /img/2026/topologyofmind/Topology%20Demo.gif
+image: /img/2026/topologyofmind/thumbnail.png
+math: true
 links:
   - text: Explore
     url: topologyofmind.com
