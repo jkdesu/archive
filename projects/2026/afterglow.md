@@ -12,8 +12,7 @@ image: /public/img/2026/AfterGlow/Cover.png
 
 ![Cover image for AfterGlow. This is a concept image rather than a direct in-game screenshot.](/public/img/2026/AfterGlow/Cover.png)
 
-<video src="/public/img/2026/AfterGlow/Trailer.mp4" controls style="aspect-ratio: 16 / 9; width: 100%;">
-</video>
+https://youtu.be/m3tVnDENyZQ
 
 ## Project Statement
 
