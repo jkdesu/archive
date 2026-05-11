@@ -8,7 +8,16 @@ links:
     url: https://claire-gall.github.io/AWeatheringStation-WebDocumentation/
 ---
 
+Provocation:
+Fog moves though various interfaces, be it ecological, material and now digital- how might we witness it in its transitional state?
+What are the existing and emergent power structures of cloud documentation, material, immaterial and digital?
+How are clouds implicated in digital aesthetics? 
+How do air microbiomes form, what are the systems of legibility around air-moisture accumulation that currently exist? 
+Where and when does air-moisture meet ecological criticality?
+As air moisture is both a by-product of a micro-climatic process and a trace of atmospheric happenings, how is it to be understood in real-time versus an archive?
 
+“The forest images included here are then less representational and more operational. Neither a worm’s-eye view nor a bird’s-eye view, they ask that one begin from within the thick of planetary inhabitations, in the forests as they are lost and potentially remade, and as they reconfigure relations across people, more-than-humans, technologies, politics, and the planetary. How does this gaze from within planetary inhabitations generate multiple modes of praxis?”
+-Jennifer Gabrys in Accumulation for Becoming Planetary, e-flux Architecture, 2018 
 
 PROJECT SCOPE: 
 
