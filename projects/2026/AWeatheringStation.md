@@ -9,6 +9,7 @@ links:
 ---
 
 Provocation:
+
 Fog moves though various interfaces, be it ecological, material and now digital- how might we witness it in its transitional state?
 What are the existing and emergent power structures of cloud documentation, material, immaterial and digital?
 How are clouds implicated in digital aesthetics? 
