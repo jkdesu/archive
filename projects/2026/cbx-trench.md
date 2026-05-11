@@ -4,7 +4,7 @@ title: "Trench: Computational Design Practice for Environmental Justice in the S
 author: Sriya Thotakura
 advisor: Kazuki Sakamoto
 year: 2026
-image: /img/cbx-trench/hero.png
+image: /img/2026/cbx-trench/hero.png
 links:
   - text: Project
     url: https://sriyathotakura.github.io/TRENCH/
@@ -25,9 +25,9 @@ The work emerges from a specific disciplinary position within Columbia GSAPP's M
 
 ## Why computation needs community: the CommunityAtlas precedent
 
-![CommunityAtlas — STURLA + Random Forest vulnerability mapping with synthetic PM2.5 data](/img/cbx-trench/community-atlas.png)
+![CommunityAtlas — STURLA + Random Forest vulnerability mapping with synthetic PM2.5 data](/img/2026/cbx-trench/community-atlas.png)
 
-![CommunityAtlas — environmental vulnerability index across South Bronx analysis zones](/img/cbx-trench/community-atlas2.png)
+![CommunityAtlas — environmental vulnerability index across South Bronx analysis zones](/img/2026/cbx-trench/community-atlas2.png)
 
 An earlier phase of this research, [CommunityAtlas](https://sriyathotakura.github.io/CommunityAtlas), applied the Structure of Urban Landscapes (STURLA) classification framework and Random Forest regression to map environmental vulnerability across the South Bronx[^5]. The model achieved strong predictive performance — distance to the CBX corridor emerged as the single most important feature at 100% relative importance. But the target variable was synthetic: PM2.5 concentrations were interpolated from sparse EPA monitoring stations, not measured at street level. The model could identify *where* vulnerability concentrates but not *why* residents experience it the way they do, or *what* they say about it in their own words.
 
@@ -37,7 +37,7 @@ The computational design practice articulated in this project addresses that gap
 
 ## The computational pipeline: seven layers addressing urban decay
 
-![Workflow pipeline — seven computational layers from corpus to design intervention](/img/cbx-trench/workflow-chart.jpg)
+![Workflow pipeline — seven computational layers from corpus to design intervention](/img/2026/cbx-trench/workflow-chart.jpg)
 
 Urban decay at the scale of the Cross Bronx Expressway cannot be addressed by a single computational method. The trench is simultaneously a geometric condition (measurable by computer vision), a health crisis (quantifiable through epidemiological data), a governance failure (documented in community board minutes), a spatial injustice (mappable through GIS), and a design problem (addressable through parametric intervention). This project constructs a seven-layer computational pipeline to hold all of these registers simultaneously:
 
@@ -57,7 +57,7 @@ Urban decay at the scale of the Cross Bronx Expressway cannot be addressed by a 
 
 ## RAG: making community testimony computable
 
-![RAG answers — cross-domain query results from the indexed corpus](/img/cbx-trench/RAG_answers.png)
+![RAG answers — cross-domain query results from the indexed corpus](/img/2026/cbx-trench/RAG_answers.png)
 
 The RAG system is the project's core methodological contribution. It transforms unstructured community testimony — board meeting transcripts, interview recordings, complaint narratives — into spatially indexed, categorically classified, computationally weighted evidence. This is not sentiment analysis. It is the construction of a parallel data layer where community voice carries the same epistemological weight as a health department CSV. The following results are drawn directly from querying the indexed corpus across six evidence categories.
 
@@ -151,23 +151,23 @@ The RAG system is the project's core methodological contribution. It transforms 
 
 The computer vision pipeline does not analyze the expressway from above. It segments the view from inside the trench — the perspective of someone walking, waiting for a bus, or breathing the air at street level. SegFormer classifies each pixel of a Mapillary street-level frame into semantic categories: sky, wall, building, road, vegetation, fence. The ratio of sky to total frame area becomes a direct measurement of enclosure. Where that ratio drops below 0.15, the trench condition is computationally confirmed: the geometry of the expressway is measurably restricting the sky available to the people living beside it[^7].
 
-![Segmentation analysis page 3](/img/cbx-trench/segmentation_page-0003.jpg)
+![Segmentation analysis page 3](/img/2026/cbx-trench/segmentation_page-0003.jpg)
 
-![Segmentation analysis page 4](/img/cbx-trench/segmentation_page-0004.jpg)
+![Segmentation analysis page 4](/img/2026/cbx-trench/segmentation_page-0004.jpg)
 
-![Segmentation analysis page 5](/img/cbx-trench/segmentation_page-0005.jpg)
+![Segmentation analysis page 5](/img/2026/cbx-trench/segmentation_page-0005.jpg)
 
-![Segmentation analysis page 6](/img/cbx-trench/segmentation_page-0006.jpg)
+![Segmentation analysis page 6](/img/2026/cbx-trench/segmentation_page-0006.jpg)
 
-![Segmentation analysis page 7](/img/cbx-trench/segmentation_page-0007.jpg)
+![Segmentation analysis page 7](/img/2026/cbx-trench/segmentation_page-0007.jpg)
 
-![Random Forest decision tree — Asthma inpatient rate as root node, trauma intensity as secondary split](/img/cbx-trench/rf-decision-tree.jpg)
+![Random Forest decision tree — Asthma inpatient rate as root node, trauma intensity as secondary split](/img/2026/cbx-trench/rf-decision-tree.jpg)
 
-![Feature correlation heatmap — 26 environmental, health, and trauma variables across 57 analysis zones](/img/cbx-trench/feature-correlation.jpg)
+![Feature correlation heatmap — 26 environmental, health, and trauma variables across 57 analysis zones](/img/2026/cbx-trench/feature-correlation.jpg)
 
 ## The ensemble: what the model proves and what it cannot
 
-![Ensemble vulnerability model results — feature importance, model performance, and priority zones](/img/cbx-trench/dashboard_ensemble.jpg)
+![Ensemble vulnerability model results — feature importance, model performance, and priority zones](/img/2026/cbx-trench/dashboard_ensemble.jpg)
 
 The ensemble model's feature importance ranking tells the project's central story. Asthma inpatient rate dominates at 61.6% — health burden is the primary driver of vulnerability. Climate vulnerability index follows at 24.6%. But RAG-extracted trauma intensity ranks third at 10.2%, ahead of canopy cover, facility proximity, and every CV-derived feature. Community testimony, computationally indexed and weighted, contributes more predictive power than decades of remote-sensed vegetation data. The five highest-priority zones — fid-41 (Mott Haven, vulnerability 0.745), fid-06 (0.723), fid-17 (0.666), fid-52 (0.662), and fid-29 (0.525) — all sit within the deepest trench sections.
 
@@ -179,15 +179,15 @@ The project's evidence is not only institutional. Reece Brosco, Brownfields Prog
 
 ## The dashboard: computation as community instrument
 
-![Community intelligence dashboard — spatial analysis, RAG query, and health vulnerability interface](/img/cbx-trench/community-dashboard1.png)
+![Community intelligence dashboard — spatial analysis, RAG query, and health vulnerability interface](/img/2026/cbx-trench/community-dashboard1.png)
 
-![Dashboard — site comparison and CV overlay panels](/img/cbx-trench/community-dashboard2.png)
+![Dashboard — site comparison and CV overlay panels](/img/2026/cbx-trench/community-dashboard2.png)
 
-![Dashboard — depth estimation and trench geometry analysis](/img/cbx-trench/community-dashboard3.png)
+![Dashboard — depth estimation and trench geometry analysis](/img/2026/cbx-trench/community-dashboard3.png)
 
-![Dashboard — health vulnerability data and ensemble results](/img/cbx-trench/community-dashboard4.png)
+![Dashboard — health vulnerability data and ensemble results](/img/2026/cbx-trench/community-dashboard4.png)
 
-![Dashboard — generative design proposals and intervention sites](/img/cbx-trench/community-dashboard5.png)
+![Dashboard — generative design proposals and intervention sites](/img/2026/cbx-trench/community-dashboard5.png)
 
 The final deliverable is not a paper or a poster. It is a tool. The community-facing dashboard integrates all seven computational layers into a single interface where a Community Board member can query the corpus ("what has been said about truck noise on Burnside Avenue?"), see the spatial distribution of trauma alongside health statistics, compare five intervention sites across satellite imagery, computer vision overlays, depth estimation maps, trench geometry analysis, and generative design proposals, and read the vulnerability formula that prioritizes their neighborhood[^8]. The design decision to build this as a web tool rather than a printed report is itself a computational design practice argument: the evidence should be queryable, not static.
 
