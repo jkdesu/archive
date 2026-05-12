@@ -2,7 +2,7 @@
 layout: project
 title: "Volatility of Everyday"
 author: Ji-in Kang
-advisor: William Martins
+advisor: William Martin
 year: 2026
 image: /img/2026/volatility-of-everyday/capstone1.png
 links:
@@ -89,7 +89,7 @@ Under strict constraints, I pre-set a diet built around a **sandwich** with a li
 ## CDP Thesis Video
 
 <iframe
-  src="https://www.youtube.com/embed/2uPtvNwI67g"
+  src="https://www.youtube.com/watch?v=FB97v_2N4Us"
   frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen
