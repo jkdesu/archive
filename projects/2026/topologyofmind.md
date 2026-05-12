@@ -8,6 +8,8 @@ image: /img/2026/topologyofmind/thumbnail.png
 links:
   - text: Explore
     url: topologyofmind.com
+  - text: About the Author
+    url: minsupchung.com
 ---
 
 <style>
