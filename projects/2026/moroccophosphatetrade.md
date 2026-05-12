@@ -22,11 +22,13 @@ OCP's green ammonia program uses Morocco's exceptional solar and wind resources 
 
 The project began with a data collection and structuring phase, assembling annual trade figures from the Office des Changes Maroc, OCP annual reports, UN Comtrade, the World Bank Pink Sheet, and the International Fertilizer Association. Raw data was cleaned, normalized to consistent USD values, and organized into product-level export series spanning 2000 to 2026.
 
-The design process translated that dataset into a set of complementary visual artifacts, each addressing a different layer of the trade system. The primary interactive presentation was built in Reveal.js using IBM Plex Mono throughout, giving the interface a computational and data-forward aesthetic. Chart.js was used for quantitative charts. D3.js and TopoJSON were used to build two interactive world maps, one tracing export flows from Morocco to destination markets, one tracing inbound processing input flows, both animated across the full 27-year data range.
-
-A standalone interactive map was developed separately, featuring a year scrubber, play function, togglable export and import display modes, and a sparkline revenue chart with hover annotation. A photographic collage was assembled from imagery of Morocco's four principal phosphate sites (Khouribga, Benguerir, Bou Craa, and Jorf Lasfar). A cinematic scrolling documentary was built using SVG-illustrated scenes depicting the geological formation of Morocco's phosphate deposits, the mining operations, and the processing chain from raw rock to finished fertilizer.
+The design process translated that dataset into a set of complementary data visualizations, each addressing a different layer of the trade system. The primary interactive presentation was built in Reveal.js using IBM Plex Mono throughout, giving the interface a computational and data-forward aesthetic. Chart.js was used for quantitative charts. D3.js and TopoJSON were used to build two interactive world maps, one tracing export flows from Morocco to destination markets, one tracing inbound processing input flows, both animated across the full 27-year data range.
 
 Color encoding is consistent across all artifacts: red for reserve data, blue for export market data, green for fertilizer and green ammonia data, amber for price and cost data.
+
+## Prototype
+
+<iframe src="https://youtu.be/CVGRuzZCMZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Imagery
 
@@ -63,3 +65,4 @@ Reuters. "Morocco's OCP plans $7bln green ammonia plant." June 2023.
 [^3]: OCP Group. Full Year 2024 Results Publication. March 2025.
 [^4]: Worley Group. Annual Report 2024.
 [^5]: OCP Group. Investment Plan 2023 to 2027. ocpgroup.ma. Confirmed by Reuters, June 2023.
+
