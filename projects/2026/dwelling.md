@@ -1,10 +1,10 @@
 ---
 layout: project
-title: "Dwelling: reconstructing homes through attention"
+title: "Dwelling: Reconstructing Spaces through Attention"
 author: Benny Yang
 advisor: Seth Thompson
 year: 2026
-image: /img/2026/dwelling.png
+image: /img/2026/dwelling/dwelling.gif
 links:
   - text: About the Author
     url: https://www.bennyyyang.com/
