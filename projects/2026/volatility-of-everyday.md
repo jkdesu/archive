@@ -75,7 +75,7 @@ links:
 
 A formative experience came during an internship at a cryptocurrency exchange, where I encountered digital assets such as NFTs and blockchain standards. That exposure deepened an interest in algorithmic systems and in how digital artworks are generated, circulated, and valued, and prompted questions about the sustainability of highly volatile digital assets that often derive worth from speculative and extrinsic mechanisms rather than intrinsic qualities.
 
-Over time, attention moved from financial volatility alone toward volatility in everyday life. Having lived in major commercial cities, including Seoul, Tokyo, and New York — I noticed how the same essential goods can bear sharply different prices across urban contexts. Accustomed to relative price stability in Tokyo, encountering nearly doubled costs for basic commodities in New York became an entry point for thinking about volatility not only as an economic condition but as an embodied and emotional experience.
+Over time, my attention moved from financial volatility alone toward volatility in everyday life. Having lived in major commercial cities, including Seoul, Tokyo, and Manhattan, I noticed how the same essential goods can bear sharply different prices across urban contexts. Accustomed to relative price stability in Tokyo, encountering nearly doubled costs for basic commodities in New York City became an entry point for thinking about volatility not only as an economic condition but as an embodied and emotional experience.
 
 The project frames everyday volatility as a lived condition shaped by perception, environment, and systems of value, asking how decentralization and digitalization intersect with human sensitivity and interpretation.
 
@@ -129,7 +129,7 @@ An interactive comparison of everyday item pricing and emotional response to cos
 
 The **banana** operates as a central medium: mass-produced, globally distributed, and universally recognizable. It carries associations of accessibility, affordability, and comfort, while remaining entangled with labor histories, trade systems, and capital flows.
 
-By placing the **banana** as a central medium in translating emotional layers—comfort, accessibility, feasibility, and fairness, the work asks how economic volatility reshapes not only prices but also feelings of stability and attachment.
+By placing the **banana** as a central medium in translating emotional layers: comfort, accessibility, feasibility, and fairness, the work asks how economic volatility reshapes not only prices but also feelings of stability and attachment.
 
 Presenting a **banana** to the camera triggers a “sensory awakening”: a non-linear, algorithmic collage of philosophical texts I scraped (e.g. Georg Simmel, Karl Marx, Sara Ahmed). The overlap of theory and object detection mirrors the disorder of value systems in a volatile digital landscape.
 
@@ -141,7 +141,7 @@ Presenting a **banana** to the camera triggers a “sensory awakening”: a non-
 
 We live in a transactional world: we work to pay bills and pursue credentials for recognition; nothing in life feels free. Food is a rare “controlled” variable. People can, in theory, shape what they eat around health or dietary needs, and it is one of the only necessities in life that humans cannot live without .
 
-Under strict constraints, I pre-set a diet built around a **sandwich** with a limited set of toppings, then repeated visits to **sandwich** shops to sustain what I call the "Bought Experience" —linking repetitive consumption to measurable economic and emotional patterning.
+Under strict constraints, I pre-set a diet built around a **sandwich** with a limited set of toppings, then repeated visits to **sandwich** shops to sustain what I call the "Bought Experience", linking repetitive consumption to measurable economic and emotional patterning.
 
 From my performative acts of pursuing "Bought Experience", I translated this experience into a web-interface.
 
@@ -163,4 +163,6 @@ From my performative acts of pursuing "Bought Experience", I translated this exp
 
 **Reflection:**
 
-By combining everyday objects, interaction design, economic data, and emotional response, **Volatility of Everyday** situates itself within a tradition that uses ordinary materials to expose hidden systems in contemporary life. The aim is to help people living in an increasingly automated digital era reclaim creative agency through sensitivity to volatility—not only as a market metric but as a felt condition.
+By combining everyday objects, interaction design, economic data, and emotional response, **Volatility of Everyday** situates itself within a tradition that uses ordinary materials to expose hidden systems in contemporary life.
+
+The aim is to help people living in an increasingly automated digital era reclaim creative agency through sensitivity to volatility, not only as a market metric but as a felt condition.
