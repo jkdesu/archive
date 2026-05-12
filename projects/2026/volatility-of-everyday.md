@@ -85,9 +85,11 @@ The project frames everyday volatility as a lived condition shaped by perception
 
 **Context:**
 
-Everyday objects as cultural symbols
+Everyday Objects as Cultural $ymbols
 
-Throughout art history, artists have used ordinary objects to reveal invisible systems of value, labor, consumption, and desire. By transforming familiar materials into symbolic forms, they invite viewers to reconsider the emotional and political meanings embedded in everyday life. **Volatility of Everyday** extends this lineage by using accessible objects, such as **bananas** and **sandwiches** to investigate how economic instability is felt as much as it is measured.
+Throughout art history, artists have used ordinary objects to reveal invisible systems of value, labor, consumption, and desire. By transforming familiar materials into symbolic forms, they invite viewers to reconsider the emotional and political meanings embedded in everyday life.
+
+**Volatility of Everyday** extends this lineage by using accessible objects, such as **bananas** and **sandwiches** to investigate how economic instability is felt as much as it is measured.
 
 I wanted to translate that experience into a more shared and quantitative form. Computation and everyday objects become the means to move private sensation toward something tangible and more universal.
 
@@ -105,7 +107,9 @@ The **sandwich** module applies a related logic: repetitive acts of purchasing a
 
 <strong style="color:rgb(255, 0, 0);">1. Immersive Simulation</strong>
 
-An interactive comparison of everyday item pricing and emotional response to cost change. Users move through bodega inspired panels of accessible goods and see how facial expression shifts while viewing items. The piece combines real-time price visualization with facial-expression analytics to study emotional responses to price differences between Tokyo and New York.
+An interactive comparison of everyday item pricing and emotional response to cost change. Users move through bodega inspired panels of accessible goods and see how facial expression shifts while viewing items.
+
+The piece combines real-time price visualization with facial-expression analytics to study emotional responses to price differences between Tokyo and New York.
 
 <div class="voe-black-captions">
 
