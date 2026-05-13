@@ -158,7 +158,7 @@ From my performative acts of pursuing "Bought Experience", I translated this exp
 ## CDP Thesis Video
 
 <iframe
-  src="https://www.youtube.com/embed/Hy12MKMtTVA"
+  src="https://www.youtube.com/watch?v=Hy12MKMtTVA"
   frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen

@@ -8,6 +8,8 @@ image: /img/2026/topologyofmind/thumbnail.png
 links:
   - text: Explore
     url: topologyofmind.com
+  - text: About the Author
+    url: minsupchung.com
 ---
 
 <style>
@@ -119,7 +121,7 @@ The dataset is not treated as a collection of images with labels. It is treated 
 
 The processing pipeline begins with session selection and loading through the AllenSDK. Spike times are organized by brain region and aligned to stimulus presentations. These spike events are then binned into 50 ms windows, smoothed, and z-score normalized to form population activity matrices. At this point, the object of study is no longer a single neuron, but the changing state of a regional neural population.
 
-Mathematically, the first transformation converts spike events into a population vector. For neuron <span class="tom-math-inline">\(i\)</span> in region <span class="tom-math-inline">\(r\)</span>, spike times <span class="tom-math-inline">\(s_{i,k}\)</span> are counted inside a time bin of width <span class="tom-math-inline">\(\Delta t = 50\,\mathrm{ms}\)</span>:
+Mathematically, the first transformation converts spike events into a population vector. For neuron <span class="tom-math-inline">$i$</span> in region <span class="tom-math-inline">$r$</span>, spike times <span class="tom-math-inline">$s_{i,k}$</span> are counted inside a time bin of width <span class="tom-math-inline">$\\Delta t = 50\\,\\mathrm{ms}$</span>:
 
 <div class="tom-math-display">
 \[
@@ -163,11 +165,11 @@ W_{r,k}=\arg\max_{W^{\mathsf{T}}W=I}\operatorname{Tr}\left(W^{\mathsf{T}}\Sigma_
 \]
 </div>
 
-Here <span class="tom-math-inline">\(\mathbf{z}_r(t)\)</span> is not a picture of a brain state, but a lower-dimensional coordinate for the relation among many neurons at that moment.
+Here <span class="tom-math-inline">$\\mathbf{z}_r(t)$</span> is not a picture of a brain state, but a lower-dimensional coordinate for the relation among many neurons at that moment.
 
 Persistent homology is then used to ask what kinds of structures persist inside those manifolds. The analysis looks for connected components, loops, and higher-dimensional features, and it validates them through parameter sweeps, bootstrap stability, and null model comparisons. This matters because topology can easily become decorative if it is not tested. The project therefore treats topological form as something that must earn its interpretive force.
 
-For a projected point cloud <span class="tom-math-inline">\(P_r=\{\mathbf{z}_r(t_j)\}_{j=1}^{T}\)</span>, the Vietoris-Rips complex at scale <span class="tom-math-inline">\(\epsilon\)</span> is:
+For a projected point cloud <span class="tom-math-inline">$P_r=\\{\\mathbf{z}_r(t_j)\\}_{j=1}^{T}$</span>, the Vietoris-Rips complex at scale <span class="tom-math-inline">$\\epsilon$</span> is:
 
 <div class="tom-math-display">
 \[
@@ -177,7 +179,7 @@ For a projected point cloud <span class="tom-math-inline">\(P_r=\{\mathbf{z}_r(t
 \]
 </div>
 
-As <span class="tom-math-inline">\(\epsilon\)</span> grows, this creates a filtration of spaces. Persistent homology records when a topological feature is born and when it dies:
+As <span class="tom-math-inline">$\\epsilon$</span> grows, this creates a filtration of spaces. Persistent homology records when a topological feature is born and when it dies:
 
 <div class="tom-math-display">
 \[
@@ -187,7 +189,7 @@ D_q(P_r)=\left\{(b_j,d_j)\right\}_{j=1}^{m_q},
 \]
 </div>
 
-Long-lived features, such as stable <span class="tom-math-inline">\(H_1\)</span> loops, become candidates for meaningful relational structure rather than momentary noise.
+Long-lived features, such as stable <span class="tom-math-inline">$H_1$</span> loops, become candidates for meaningful relational structure rather than momentary noise.
 
 After validation, each region receives a topology-specific coordinate policy. VISpm and VISrl are represented through circular coordinates derived from single dominant loops. CA1 is modeled through transition diffusion coordinates, reflecting a less stable, state-like geometry. DG is represented through density and diffusion coordinates. VISp, VISl, and VISam use principal component coordinates when their topology is better understood as local graph fragments than as a single clean loop. These policies are merged into a canonical table of topological coordinates, allowing each visual condition to be read as a position within a regional relational structure.
 
